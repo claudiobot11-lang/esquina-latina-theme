@@ -1,0 +1,622 @@
+{% comment %}
+  Esquina Latina Market — home page
+{% endcomment %}
+
+{%- assign country_data = 'brazil|br|Brasil,colombia|co|Colombia,el-salvador|sv|El Salvador,costa-rica|cr|Costa Rica,guatemala|gt|Guatemala,honduras|hn|Honduras,peru|pe|Peru,nicaragua|ni|Nicaragua' | split: ',' -%}
+
+{%- assign category_icons = 'Coffee|☕,Juice|🧃,Soda|🥤,Sauce|🫙,Seasoning|🌶️,Cookies|🍪,Snacks|🍿,Soups|🍲,Baking|🎂,Flours & Starches|🌾,Grains|🌽,Nail Polish|💅,Limpeza Doméstica|🧹,Achocolatados em Pó|🍫,Rice Drinks|🥛' | split: ',' -%}
+
+{%- assign slides = 'hero|🌽 Sabores da América Latina|Os melhores produtos importados direto para você.|Ver Loja|/collections/all|🍍,🥭,🌽,🥑,🌶️,brazil|🇧🇷 Brasil|Cafés, esmaltes, sucos e muito mais.|Ver Brasil|/collections/brazil|☕,🫘,🥤,colombia|🇨🇴 Colombia|Refrigerantes e produtos típicos colombianos.|Ver Colombia|/collections/colombia|☕,🍫,🌿' | split: ',' -%}
+
+<!-- Hero Carousel -->
+<div class="hero-carousel full-width" id="heroCarousel">
+  <div class="hero-slide hero-slide--active" style="background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #f57f17 100%);">
+    <div class="hero-emojis">
+      <span style="top:15%;right:8%">🍍</span>
+      <span style="top:50%;right:20%">🥭</span>
+      <span style="top:25%;left:5%">🌽</span>
+      <span style="top:65%;left:15%">🥑</span>
+      <span style="top:40%;right:5%">🌶️</span>
+    </div>
+    <div class="hero-content">
+      <div class="hero-logo">🌽</div>
+      <div class="hero-text">
+        <h1 class="hero-title">Sabores da América Latina</h1>
+        <p class="hero-subtitle">Os melhores produtos importados direto para você. San Bruno, CA.</p>
+        <div class="hero-btns">
+          <a href="/collections/all" class="hero-btn hero-btn--primary">Ver Loja →</a>
+          <a href="/collections/brazil" class="hero-btn hero-btn--outline">Explorar Países</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-slide" style="background: linear-gradient(135deg, #e65100 0%, #f57f17 60%, #fbc02d 100%);">
+    <div class="hero-emojis">
+      <span style="top:20%;right:10%">☕</span>
+      <span style="top:55%;right:18%">🫘</span>
+      <span style="top:30%;left:8%">🥤</span>
+    </div>
+    <div class="hero-content">
+      <img src="https://flagcdn.com/w80/br.png" alt="Brasil" class="hero-flag-big">
+      <div class="hero-text">
+        <h1 class="hero-title">🇧🇷 Brasil</h1>
+        <p class="hero-subtitle">Cafés, esmaltes, sucos Tang e muito mais produtos brasileiros.</p>
+        <div class="hero-btns">
+          <a href="/collections/brazil" class="hero-btn hero-btn--primary">Ver Brasil →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-slide" style="background: linear-gradient(135deg, #1565c0 0%, #0288d1 60%, #ffd600 100%);">
+    <div class="hero-emojis">
+      <span style="top:20%;right:10%">☕</span>
+      <span style="top:55%;right:18%">🍫</span>
+      <span style="top:30%;left:8%">🌿</span>
+    </div>
+    <div class="hero-content">
+      <img src="https://flagcdn.com/w80/co.png" alt="Colombia" class="hero-flag-big">
+      <div class="hero-text">
+        <h1 class="hero-title">🇨🇴 Colombia</h1>
+        <p class="hero-subtitle">Postobon, Colombiana e produtos típicos colombianos.</p>
+        <div class="hero-btns">
+          <a href="/collections/colombia" class="hero-btn hero-btn--primary">Ver Colombia →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Arrows -->
+  <button class="hero-arrow hero-arrow--prev" id="heroPrev">‹</button>
+  <button class="hero-arrow hero-arrow--next" id="heroNext">›</button>
+
+  <!-- Dots -->
+  <div class="hero-dots" id="heroDots">
+    <button class="hero-dot hero-dot--active" data-slide="0"></button>
+    <button class="hero-dot" data-slide="1"></button>
+    <button class="hero-dot" data-slide="2"></button>
+  </div>
+</div>
+
+<!-- Countries -->
+<section class="home-section">
+  <h2 class="home-section__title">🌎 Países</h2>
+  <div class="countries-grid">
+    {% for entry in country_data %}
+      {%- assign parts = entry | split: '|' -%}
+      {%- assign handle = parts[0] -%}
+      {%- assign code = parts[1] -%}
+      {%- assign name = parts[2] -%}
+      {%- assign col = collections[handle] -%}
+      {% if col.products_count > 0 %}
+        <a href="{{ col.url }}" class="country-card">
+          <img src="https://flagcdn.com/w80/{{ code }}.png" alt="{{ name }}" class="country-card__flag">
+          <span class="country-card__name">{{ name }}</span>
+          <span class="country-card__count">{{ col.products_count }} itens</span>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Categories -->
+{%- assign all_tags_home = collections.all.all_tags | sort -%}
+{% if all_tags_home.size > 0 %}
+<section class="home-section">
+  <h2 class="home-section__title">🏷️ Categorias</h2>
+  <div class="categories-strip">
+    {% for tag in all_tags_home %}
+      {%- assign icon = '📦' -%}
+      {% for cat_entry in category_icons %}
+        {%- assign cat_parts = cat_entry | split: '|' -%}
+        {% if cat_parts[0] == tag %}
+          {%- assign icon = cat_parts[1] -%}
+        {% endif %}
+      {% endfor %}
+      <a href="/collections/all?tag={{ tag | url_encode }}" class="cat-card">
+        <span class="cat-card__icon">{{ icon }}</span>
+        <span class="cat-card__name">{{ tag }}</span>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<!-- Featured Products -->
+<section class="home-section">
+  <div class="home-section__header">
+    <h2 class="home-section__title">⭐ Produtos em Destaque</h2>
+    <a href="/collections/all" class="home-section__more">Ver todos →</a>
+  </div>
+  <div class="featured-carousel" id="featuredCarousel">
+    <div class="featured-track" id="featuredTrack">
+      {% assign featured = collections.brazil.products | where: 'available', true %}
+      {% for product in featured limit: 10 %}
+        <div class="featured-card">
+          <a href="{{ product.url }}" class="featured-card__link">
+            <div class="featured-card__img-wrap">
+              {% if product.featured_image %}
+                <img src="{{ product.featured_image | image_url: width: 300 }}" alt="{{ product.title | escape }}" class="featured-card__img" loading="lazy">
+              {% else %}
+                <div class="featured-card__no-img">📦</div>
+              {% endif %}
+              <img src="https://flagcdn.com/w40/br.png" alt="" class="featured-card__flag" loading="lazy">
+            </div>
+            <h3 class="featured-card__title">{{ product.title | escape }}</h3>
+            <p class="featured-card__price">{{ product.price | money }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+    <button class="carousel-arrow carousel-arrow--prev" id="featPrev">‹</button>
+    <button class="carousel-arrow carousel-arrow--next" id="featNext">›</button>
+  </div>
+</section>
+
+<!-- Promo Banner -->
+<section class="promo-banner full-width">
+  <div class="promo-banner__decor">
+    <span>🌮</span><span>🥑</span><span>🫘</span><span>🌶️</span><span>🍍</span>
+  </div>
+  <div class="promo-banner__content">
+    <h2>🌎 A sua esquina latina em San Bruno</h2>
+    <p>Produtos autênticos da América Latina. Venha nos visitar!</p>
+    <a href="/collections/all" class="promo-banner__btn">Comprar Agora →</a>
+  </div>
+</section>
+
+<script>
+(function () {
+  // Hero carousel
+  var slides = document.querySelectorAll('.hero-slide');
+  var dots = document.querySelectorAll('.hero-dot');
+  var current = 0;
+
+  function goTo(n) {
+    slides[current].classList.remove('hero-slide--active');
+    dots[current].classList.remove('hero-dot--active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('hero-slide--active');
+    dots[current].classList.add('hero-dot--active');
+  }
+
+  document.getElementById('heroPrev').addEventListener('click', function () { goTo(current - 1); });
+  document.getElementById('heroNext').addEventListener('click', function () { goTo(current + 1); });
+  dots.forEach(function (d) { d.addEventListener('click', function () { goTo(parseInt(d.dataset.slide)); }); });
+  setInterval(function () { goTo(current + 1); }, 6000);
+
+  // Featured carousel scroll
+  var track = document.getElementById('featuredTrack');
+  if (track) {
+    document.getElementById('featPrev').addEventListener('click', function () {
+      track.scrollBy({ left: -220, behavior: 'smooth' });
+    });
+    document.getElementById('featNext').addEventListener('click', function () {
+      track.scrollBy({ left: 220, behavior: 'smooth' });
+    });
+  }
+})();
+</script>
+
+{% stylesheet %}
+  /* Hero */
+  .hero-carousel {
+    position: relative;
+    overflow: hidden;
+    min-height: 220px;
+  }
+  .hero-slide {
+    display: none;
+    padding: 2.5rem 1.5rem;
+    min-height: 220px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero-slide--active { display: block; }
+  .hero-emojis {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.1;
+  }
+  .hero-emojis span {
+    position: absolute;
+    font-size: 2.5rem;
+  }
+  @media (min-width: 768px) {
+    .hero-emojis span { font-size: 4rem; }
+  }
+  .hero-content {
+    max-width: var(--page-width);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    position: relative;
+    z-index: 1;
+  }
+  .hero-logo {
+    font-size: 4rem;
+    flex-shrink: 0;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+  }
+  .hero-flag-big {
+    width: 80px;
+    height: 54px;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-lg);
+    flex-shrink: 0;
+  }
+  @media (max-width: 480px) {
+    .hero-logo { font-size: 2.5rem; }
+    .hero-flag-big { width: 56px; height: 38px; }
+  }
+  .hero-text { flex: 1; }
+  .hero-title {
+    font-size: clamp(1.3rem, 4vw, 2.2rem);
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .hero-subtitle {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.85);
+    margin-bottom: 1rem;
+    max-width: 500px;
+  }
+  .hero-btns { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+  .hero-btn {
+    padding: 0.5rem 1.25rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.15s;
+  }
+  .hero-btn--primary {
+    background: #fff;
+    color: #0f0f0f;
+  }
+  .hero-btn--primary:hover { background: rgba(255,255,255,0.9); }
+  .hero-btn--outline {
+    background: rgba(255,255,255,0.15);
+    color: #fff;
+    border: 1.5px solid rgba(255,255,255,0.45);
+    backdrop-filter: blur(4px);
+  }
+  .hero-btn--outline:hover { background: rgba(255,255,255,0.25); }
+  .hero-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+    border: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s;
+    backdrop-filter: blur(4px);
+    z-index: 2;
+  }
+  .hero-arrow:hover { background: rgba(255,255,255,0.35); }
+  .hero-arrow--prev { left: 12px; }
+  .hero-arrow--next { right: 12px; }
+  .hero-dots {
+    position: absolute;
+    bottom: 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 6px;
+    z-index: 2;
+  }
+  .hero-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255,255,255,0.4);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .hero-dot--active {
+    background: #fff;
+    width: 22px;
+    border-radius: 4px;
+  }
+
+  /* Home sections */
+  .home-section {
+    padding: 1.75rem 0;
+  }
+  .home-section__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  .home-section__title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: var(--color-foreground);
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+  .home-section__more {
+    font-size: 0.82rem;
+    color: var(--color-muted);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.12s;
+  }
+  .home-section__more:hover { color: var(--color-foreground); }
+
+  /* Countries */
+  .countries-grid {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-card);
+    padding: 0.75rem;
+  }
+  .countries-grid::-webkit-scrollbar { display: none; }
+  @media (min-width: 768px) {
+    .countries-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    }
+  }
+  .country-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.65rem 0.75rem;
+    border-radius: var(--radius-md);
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    flex-shrink: 0;
+    min-width: 72px;
+    transition: all 0.2s;
+  }
+  .country-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: transparent;
+    background: var(--color-card);
+  }
+  .country-card__flag {
+    width: 36px;
+    height: 24px;
+    object-fit: cover;
+    border-radius: 3px;
+    box-shadow: var(--shadow-sm);
+  }
+  .country-card__name {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.2;
+    color: var(--color-foreground);
+  }
+  .country-card__count {
+    font-size: 0.63rem;
+    color: var(--color-muted);
+  }
+
+  /* Categories strip */
+  .categories-strip {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    padding: 0.75rem;
+    scrollbar-width: none;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-card);
+  }
+  .categories-strip::-webkit-scrollbar { display: none; }
+  .cat-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.55rem 0.75rem;
+    border-radius: var(--radius-md);
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    flex-shrink: 0;
+    min-width: 72px;
+    transition: all 0.2s;
+  }
+  .cat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: transparent;
+    background: var(--color-card);
+  }
+  .cat-card__icon { font-size: 1.4rem; }
+  .cat-card__name {
+    font-size: 0.67rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.2;
+    color: var(--color-foreground);
+  }
+
+  /* Featured carousel */
+  .featured-carousel {
+    position: relative;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-card);
+    padding: 0.75rem;
+    overflow: hidden;
+  }
+  .featured-track {
+    display: flex;
+    gap: 0.75rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    padding: 0.25rem;
+  }
+  .featured-track::-webkit-scrollbar { display: none; }
+  .featured-card {
+    flex-shrink: 0;
+    width: 160px;
+    scroll-snap-align: start;
+    background: var(--color-background);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+    transition: all 0.2s;
+  }
+  .featured-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: transparent;
+  }
+  .featured-card__link { text-decoration: none; color: inherit; display: block; }
+  .featured-card__img-wrap {
+    aspect-ratio: 1;
+    background: var(--color-card);
+    overflow: hidden;
+    position: relative;
+  }
+  .featured-card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+  .featured-card:hover .featured-card__img { transform: scale(1.05); }
+  .featured-card__no-img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    background: var(--color-background);
+  }
+  .featured-card__flag {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 20px;
+    height: 14px;
+    object-fit: cover;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+  }
+  .featured-card__title {
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 0.4rem 0.5rem 0.1rem;
+    color: var(--color-foreground);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.3;
+  }
+  .featured-card__price {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--color-price);
+    padding: 0.1rem 0.5rem 0.5rem;
+  }
+  .carousel-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--color-card);
+    color: var(--color-foreground);
+    border: 1px solid var(--color-border);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow-sm);
+    z-index: 2;
+    transition: all 0.15s;
+  }
+  .carousel-arrow:hover { box-shadow: var(--shadow-md); }
+  .carousel-arrow--prev { left: -12px; }
+  .carousel-arrow--next { right: -12px; }
+
+  /* Promo Banner */
+  .promo-banner {
+    background: var(--color-foreground);
+    padding: 3rem 1.5rem;
+    margin-top: 1rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+  }
+  .promo-banner__decor {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.5rem;
+    opacity: 0.06;
+    pointer-events: none;
+  }
+  .promo-banner__content { position: relative; z-index: 1; }
+  .promo-banner__content h2 {
+    font-size: clamp(1.1rem, 3vw, 1.7rem);
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.03em;
+  }
+  .promo-banner__content p {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.65);
+    margin-bottom: 1.5rem;
+  }
+  .promo-banner__btn {
+    display: inline-block;
+    padding: 0.65rem 1.75rem;
+    background: #fff;
+    color: var(--color-foreground);
+    border-radius: var(--radius-sm);
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+  .promo-banner__btn:hover { opacity: 0.9; }
+{% endstylesheet %}
+
+{% schema %}
+{
+  "name": "Home",
+  "settings": []
+}
+{% endschema %}

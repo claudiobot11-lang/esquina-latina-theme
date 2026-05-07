@@ -6,13 +6,28 @@
   {{ settings.type_primary_font | font_modify: 'style', 'italic' | font_face: font_display: 'swap' }}
 
   :root {
-    --font-primary--family: {{ settings.type_primary_font.family }}, {{ settings.type_primary_font.fallback_families }};
-    --font-primary--style: {{ settings.type_primary_font.style }};
-    --font-primary--weight: {{ settings.type_primary_font.weight }};
-    --page-width: {{ settings.max_page_width }};
-    --page-margin: {{ settings.min_page_margin }}px;
-    --color-background: {{ settings.background_color }};
-    --color-foreground: {{ settings.foreground_color }};
-    --style-border-radius-inputs: {{ settings.input_corner_radius }}px;
+    --font-primary--family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --font-primary--style: normal;
+    --font-primary--weight: 400;
+    --page-width: 1280px;
+    --page-margin: 24px;
+    --color-background: #fafaf9;
+    --color-foreground: #0f0f0f;
+    --style-border-radius-inputs: 8px;
+
+    /* Design tokens */
+    --color-card: #ffffff;
+    --color-border: #e8e8e6;
+    --color-muted: #6b7280;
+    --color-accent: #0f0f0f;
+    --color-price: #16a34a;
+    --color-danger: #ef4444;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+    --shadow-lg: 0 12px 32px rgba(0,0,0,0.1);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+    --radius-xl: 20px;
   }
 {% endstyle %}

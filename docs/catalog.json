@@ -1,15 +1,15 @@
 {
   "total": 151,
-  "vendors": [
-    "Brazil",
-    "Colombia",
-    "El Salvador",
-    "Costa Rica",
-    "Guatemala",
-    "Honduras",
-    "Nicaragua",
-    "Peru"
-  ],
+  "vendors": {
+    "Brazil": 58,
+    "Colombia": 39,
+    "Costa Rica": 3,
+    "El Salvador": 1,
+    "Guatemala": 47,
+    "Honduras": 1,
+    "Nicaragua": 1,
+    "Peru": 1
+  },
   "categories": [
     "Achocolatados em Pó",
     "Baking",
@@ -42,11 +42,23 @@
         "Flours & Starches"
       ],
       "status": "ACTIVE",
-      "price": "2.67",
-      "compare_at_price": null,
-      "available": false,
-      "inventory": 0,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/amafil-tapioca-hidratada-500g-seabra-foods-online_600x600_bce24307-9587-4042-b79c-c7c4b8e07b0c.webp?v=1773469105"
+      "description": "A Tapioca Amafil é feita a partir da fécula de mandioca hidratada e peneirada, garantindo uma textura fina, uniforme e fácil de espalhar na frigideira. É a escolha ideal para quem busca praticidade e qualidade na hora de preparar tapiocas, crepiocas e outras receitas brasileiras.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/amafil-tapioca-hidratada-500g-seabra-foods-online_600x600_bce24307-9587-4042-b79c-c7c4b8e07b0c.webp?v=1773469105",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/amafil-tapioca-hidratada-500g-seabra-foods-online_600x600_bce24307-9587-4042-b79c-c7c4b8e07b0c.webp?v=1773469105"
+      ],
+      "variants": [
+        {
+          "title": "500 g",
+          "price": "2.67",
+          "compare_at_price": null,
+          "available": false,
+          "inventory": 0,
+          "weight": 500.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259318"
+        }
+      ]
     },
     {
       "title": "Amafil: Polvilho Doce Premium",
@@ -55,11 +67,23 @@
         "Flours & Starches"
       ],
       "status": "ACTIVE",
-      "price": "4.39",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 42,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Polvilho_Doce.jpg?v=1773469050"
+      "description": "O Amafil Polvilho Doce Premium é um ingrediente essencial para quem busca textura leve, sabor neutro e qualidade superior em receitas tradicionais. Produzido a partir da fécula de mandioca selecionada, ele garante massas mais macias, elásticas e com acabamento impecável — ideal para panificação, confeitaria e pratos típicos brasileiros",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Polvilho_Doce.jpg?v=1773469050",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Polvilho_Doce.jpg?v=1773469050"
+      ],
+      "variants": [
+        {
+          "title": "1 kg",
+          "price": "4.39",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 42,
+          "weight": 2.2,
+          "weight_unit": "POUNDS",
+          "sku": "52259316"
+        }
+      ]
     },
     {
       "title": "Galletas Noel: Ducales Golden",
@@ -68,11 +92,23 @@
         "Cookies"
       ],
       "status": "ACTIVE",
-      "price": "3.07",
-      "compare_at_price": "3.99",
-      "available": true,
-      "inventory": 23,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/GalletasNoelDucalesGolden.jpg?v=1746914850"
+      "description": "Os Ducales Crackers são biscoitos salgados leves e crocantes, conhecidos pelo toque levemente adocicado e pela textura única. São ideais para lanches, cafés da manhã, acompanhamentos ou para servir com queijos, pastas e geleias. Muito populares na América Latina, especialmente na Colômbia, onde são produzidos pela Industrias Alimenticias Noel.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/GalletasNoelDucalesGolden.jpg?v=1746914850",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/GalletasNoelDucalesGolden.jpg?v=1746914850"
+      ],
+      "variants": [
+        {
+          "title": "294 g",
+          "price": "3.07",
+          "compare_at_price": "3.99",
+          "available": true,
+          "inventory": 23,
+          "weight": 10.4,
+          "weight_unit": "OUNCES",
+          "sku": "52260123"
+        }
+      ]
     },
     {
       "title": "La Salvadorena: Cafe Listo",
@@ -81,11 +117,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "10.42",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 6,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LaSalvadorenaCafeListo.jpg?v=1746914852"
+      "description": "O La Salvadoreña Café Listo é um café solúvel pensado para quem busca praticidade sem abrir mão do sabor forte e tradicional. Com aroma marcante e notas tostadas, ele entrega uma bebida encorpada, rápida de preparar e perfeita para o dia a dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LaSalvadorenaCafeListo.jpg?v=1746914852",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LaSalvadorenaCafeListo.jpg?v=1746914852"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "10.42",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 6,
+          "weight": 7.0,
+          "weight_unit": "OUNCES",
+          "sku": "52260741"
+        }
+      ]
     },
     {
       "title": "Lizano: Sauce",
@@ -94,11 +142,23 @@
         "Sauce"
       ],
       "status": "ACTIVE",
-      "price": "8.99",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LizanoSauce.jpg?v=1746914852"
+      "description": "A Lizano Sauce é um dos condimentos mais emblemáticos da culinária costa‑riquenha. Com seu sabor agridoce, levemente picante e cheio de notas vegetais, ela transforma qualquer prato com um toque vibrante e característico. É versátil, aromática e perfeita para quem quer trazer um sabor latino autêntico para a mesa.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LizanoSauce.jpg?v=1746914852",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LizanoSauce.jpg?v=1746914852"
+      ],
+      "variants": [
+        {
+          "title": "625 ml",
+          "price": "8.99",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 625.0,
+          "weight_unit": "GRAMS",
+          "sku": "52260867"
+        }
+      ]
     },
     {
       "title": "Maggi: Gallina India",
@@ -107,11 +167,23 @@
         "Soups"
       ],
       "status": "ACTIVE",
-      "price": "2.60",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/MaggiGallinaIndia.jpg?v=1746914853"
+      "description": "O Maggi Gallina India é um dos temperos mais tradicionais e queridos da culinária latino‑americana. Ele entrega um sabor de galinha mais intenso, encorpado e aromático, ideal para realçar sopas, caldos, arroz, guisos e qualquer receita que peça aquele toque caseiro e reconfortante.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/MaggiGallinaIndia.jpg?v=1746914853",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/MaggiGallinaIndia.jpg?v=1746914853"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.60",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 1,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52260938"
+        }
+      ]
     },
     {
       "title": "Don julio: Soy sauce",
@@ -120,11 +192,23 @@
         "Sauce"
       ],
       "status": "ACTIVE",
-      "price": "4.05",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 39,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/DonjulioSoysauce.jpg?v=1746914849"
+      "description": "A Don Julio Soy Sauce é um molho de soja desenvolvido para quem busca sabor intenso, cor profunda e versatilidade na cozinha. Com um perfil umami marcante, ela realça o sabor natural dos alimentos e combina perfeitamente com pratos orientais, marinadas, carnes, legumes e receitas do dia a dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/DonjulioSoysauce.jpg?v=1746914849",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/DonjulioSoysauce.jpg?v=1746914849"
+      ],
+      "variants": [
+        {
+          "title": "340 ml",
+          "price": "4.05",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 39,
+          "weight": 12.75,
+          "weight_unit": "POUNDS",
+          "sku": "52259803"
+        }
+      ]
     },
     {
       "title": "El Caracol: Cebada Molida",
@@ -133,11 +217,23 @@
         "Grains"
       ],
       "status": "ACTIVE",
-      "price": "5.05",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/ElCaracolCebadaMolida.webp?v=1746914850"
+      "description": "A Cebada Molida El Caracol é um ingrediente clássico em diversas cozinhas latino‑americanas, conhecida pelo seu sabor tostado, aroma profundo e versatilidade. Produzida a partir de cevada selecionada e moída finamente, ela é ideal para preparar bebidas tradicionais, mingaus, sobremesas e receitas caseiras que pedem aquele toque nutritivo e reconfortante.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/ElCaracolCebadaMolida.webp?v=1746914850",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/ElCaracolCebadaMolida.webp?v=1746914850"
+      ],
+      "variants": [
+        {
+          "title": "400 g",
+          "price": "5.05",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 400.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259918"
+        }
+      ]
     },
     {
       "title": "Inca Kola",
@@ -146,11 +242,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "2.65",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 3,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/IncaKola.webp?v=1746914851"
+      "description": "A Inca Kola é um dos refrigerantes mais icônicos da América do Sul, famosa pelo seu sabor doce, floral e inconfundível, além da cor amarelo‑dourada que virou marca registrada. Extremamente popular no Peru, ela combina perfeitamente com comidas típicas e pratos mais temperados, trazendo uma refrescância leve e diferente de qualquer outra soda.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/IncaKola.webp?v=1746914851",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/IncaKola.webp?v=1746914851"
+      ],
+      "variants": [
+        {
+          "title": "300 ml",
+          "price": "2.65",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 3,
+          "weight": 10.14,
+          "weight_unit": "OUNCES",
+          "sku": "52260412"
+        }
+      ]
     },
     {
       "title": "Tang: Goiaba",
@@ -159,11 +267,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 49,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangGoiaba.jpg?v=1773466859"
+      "description": "O Tang Goiaba entrega um sabor doce, encorpado e super aromático, lembrando a goiaba fresca e madura. É perfeito para quem gosta de bebidas com personalidade, textura leve e aquele toque tropical que combina com qualquer momento do dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangGoiaba.jpg?v=1773466859",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangGoiaba.jpg?v=1773466859"
+      ],
+      "variants": [
+        {
+          "title": "25 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 49,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262097"
+        }
+      ]
     },
     {
       "title": "Tang: Manga",
@@ -172,11 +292,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 49,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangManga.webp?v=1746916366"
+      "description": "O Tang Manga entrega um sabor frutado, doce e bem característico da manga madura, trazendo uma bebida leve, aromática e perfeita para qualquer momento do dia. É prático, econômico e rende muito bem, ideal para acompanhar refeições, lanches ou simplesmente refrescar.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangManga.webp?v=1746916366",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangManga.webp?v=1746916366"
+      ],
+      "variants": [
+        {
+          "title": "18 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 49,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262102"
+        }
+      ]
     },
     {
       "title": "Tang: Limao",
@@ -185,11 +317,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 53,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLimao.webp?v=1746917239"
+      "description": "O Tang Limão é perfeito para quem gosta de bebidas bem refrescantes, com aquele azedinho clássico do limão e um toque leve de doçura. Prático, econômico e rápido de preparar, ele combina com qualquer refeição e é ideal para dias quentes.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLimao.webp?v=1746917239",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLimao.webp?v=1746917239"
+      ],
+      "variants": [
+        {
+          "title": "18 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 53,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262101"
+        }
+      ]
     },
     {
       "title": "Tang: Laranja",
@@ -198,11 +342,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 60,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLaranja.webp?v=1773466886"
+      "description": "O Tang Laranja é o sabor mais tradicional da linha: refrescante, levemente ácido e com aquele gostinho de laranja espremida que combina com qualquer momento do dia. Prático, econômico e com ótimo rendimento, é perfeito para acompanhar refeições, lanches ou simplesmente matar a sede com um toque cítrico.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLaranja.webp?v=1773466886",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLaranja.webp?v=1773466886"
+      ],
+      "variants": [
+        {
+          "title": "18 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 60,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262099"
+        }
+      ]
     },
     {
       "title": "Tang: Maracuja",
@@ -211,11 +367,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 44,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMaracuja.jpg?v=1746916015"
+      "description": "O Tang Maracujá entrega aquele sabor típico do maracujá: levemente ácido, doce na medida e super refrescante. É perfeito para quem gosta de bebidas com personalidade, aroma marcante e aquele toque tropical que combina com qualquer momento do dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMaracuja.jpg?v=1746916015",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMaracuja.jpg?v=1746916015"
+      ],
+      "variants": [
+        {
+          "title": "25 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 44,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262103"
+        }
+      ]
     },
     {
       "title": "Tang: Morango",
@@ -224,11 +392,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 50,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMorango.jpg?v=1746915915"
+      "description": "O Tang Morango é um dos sabores mais populares da linha. Ele entrega um sabor doce, frutado e super refrescante, perfeito para quem quer uma bebida prática e deliciosa no dia a dia. Fácil de preparar e com ótimo rendimento, é ideal para acompanhar refeições, lanches ou matar a sede com um toque de fruta.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMorango.jpg?v=1746915915",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMorango.jpg?v=1746915915"
+      ],
+      "variants": [
+        {
+          "title": "25 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 50,
+          "weight": 25.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262104"
+        }
+      ]
     },
     {
       "title": "Tang: Abacaxi",
@@ -237,11 +417,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 53,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangAbacaxi.webp?v=1773466916"
+      "description": "O Tang Abacaxi entrega aquele sabor tropical, doce na medida certa e super refrescante, ideal para quem quer uma bebida prática e deliciosa. Com preparo rápido e ótimo rendimento, é perfeito para acompanhar refeições, lanches ou matar a sede no dia a dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangAbacaxi.webp?v=1773466916",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangAbacaxi.webp?v=1773466916"
+      ],
+      "variants": [
+        {
+          "title": "18 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 53,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262096"
+        }
+      ]
     },
     {
       "title": "Tang: Uva",
@@ -250,11 +442,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.99",
-      "available": true,
-      "inventory": 50,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangUva_c688867a-0cd9-4b68-abd1-db1c41d487db.jpg?v=1746917281"
+      "description": "O Tang Uva é um refresco em pó com sabor intenso de uva, perfeito para quem busca uma bebida prática, saborosa e econômica. Com preparo rápido e rendimento ideal para toda a família, entrega um sabor marcante e equilibrado, característico da linha Tang. Basta misturar com água para obter um refresco delicioso a qualquer momento do dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangUva_c688867a-0cd9-4b68-abd1-db1c41d487db.jpg?v=1746917281",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangUva_c688867a-0cd9-4b68-abd1-db1c41d487db.jpg?v=1746917281"
+      ],
+      "variants": [
+        {
+          "title": "25 g",
+          "price": "0.80",
+          "compare_at_price": "0.99",
+          "available": true,
+          "inventory": 50,
+          "weight": 18.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262105"
+        }
+      ]
     },
     {
       "title": "3 Coracoes: Cappuccino Tradicional",
@@ -263,11 +467,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "11.30",
-      "compare_at_price": null,
-      "available": false,
-      "inventory": 0,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappuccinoTradicional.webp?v=1747161356"
+      "description": "O 3 Corações Cappuccino Tradicional é a versão mais querida da linha: cremoso, aromático e com o equilíbrio perfeito entre café, leite e chocolate. Ele entrega uma bebida encorpada, fácil de preparar e com aquele sabor tradicional de cappuccino que combina com qualquer momento do dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappuccinoTradicional.webp?v=1747161356",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappuccinoTradicional.webp?v=1747161356"
+      ],
+      "variants": [
+        {
+          "title": "400 g",
+          "price": "11.30",
+          "compare_at_price": null,
+          "available": false,
+          "inventory": 0,
+          "weight": 400.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259214"
+        }
+      ]
     },
     {
       "title": "3 Coracoes: Cappucino Classic",
@@ -276,11 +492,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "7.59",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 4,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappucinoClassic200g.webp?v=1747161901"
+      "description": "O 3 Corações Cappuccino Classic é a versão mais tradicional da linha: cremoso, aromático e com o equilíbrio perfeito entre café, leite e chocolate. Ele entrega uma bebida encorpada, fácil de preparar e com aquele sabor clássico de cappuccino que agrada todo mundo.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappucinoClassic200g.webp?v=1747161901",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappucinoClassic200g.webp?v=1747161901"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "7.59",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 4,
+          "weight": 200.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259216"
+        }
+      ]
     },
     {
       "title": "3 coracoes: Capuccino Chocolate",
@@ -289,11 +517,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "7.29",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 31,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3coracoesCapuccinoChocolate.webp?v=1747162020"
+      "description": "O Cappuccino 3 Corações Chocolate é uma bebida solúvel cremosa, com sabor marcante de café combinado ao chocolate. Fácil de preparar, basta adicionar água ou leite quente para obter uma bebida encorpada, aromática e perfeita para qualquer momento do dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3coracoesCapuccinoChocolate.webp?v=1747162020",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3coracoesCapuccinoChocolate.webp?v=1747162020"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "7.29",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 31,
+          "weight": 200.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259217"
+        }
+      ]
     },
     {
       "title": "3 Coracoes: Gourmet Dark Roast",
@@ -302,11 +542,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "6.49",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 18,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesGourmetDarkRoast.webp?v=1747162289"
+      "description": "O 3 Corações Gourmet Dark Roast é um café pensado para quem aprecia torra escura, sabor marcante e aquele aroma profundo que só cafés mais intensos entregam. Produzido com grãos selecionados, ele oferece uma bebida encorpada, com notas mais fortes e final persistente — perfeito para quem gosta de café robusto e cheio de personalidade.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesGourmetDarkRoast.webp?v=1747162289",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesGourmetDarkRoast.webp?v=1747162289"
+      ],
+      "variants": [
+        {
+          "title": "250 g",
+          "price": "6.49",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 18,
+          "weight": 250.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259220"
+        }
+      ]
     },
     {
       "title": "3 Coracoes: Instant Coffe",
@@ -315,11 +567,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "8.99",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesInstantCoffe.webp?v=1747162874"
+      "description": "O 3 Corações Instant Coffee é um café solúvel de sabor equilibrado, aroma marcante e preparo rápido. Produzido com grãos selecionados, entrega uma bebida prática e saborosa para o dia a dia — basta adicionar água quente. Ideal para quem busca conveniência sem abrir mão do sabor clássico do café brasileiro.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesInstantCoffe.webp?v=1747162874",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesInstantCoffe.webp?v=1747162874"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "8.99",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 200.0,
+          "weight_unit": "GRAMS",
+          "sku": "52259221"
+        }
+      ]
     },
     {
       "title": "Pilao: Cafe 252 Graus",
@@ -328,11 +592,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "8.40",
-      "compare_at_price": null,
-      "available": false,
-      "inventory": 0,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoCafe252Graus.webp?v=1747171068"
+      "description": "O Pilão 252 Graus é um café torrado e moído de torra intensa, desenvolvido para quem busca uma bebida forte, encorpada e com aroma marcante. A torra a 252°C realça notas mais robustas do grão, entregando um café de personalidade, ideal para quem prefere sabores mais profundos e persistentes. Perfeito para preparo no coador, cafeteira elétrica ou métodos tradicionais.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoCafe252Graus.webp?v=1747171068",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoCafe252Graus.webp?v=1747171068"
+      ],
+      "variants": [
+        {
+          "title": "500 g",
+          "price": "8.40",
+          "compare_at_price": null,
+          "available": false,
+          "inventory": 0,
+          "weight": 500.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262936"
+        }
+      ]
     },
     {
       "title": "Pilao: Tradicional",
@@ -341,11 +617,23 @@
         "Coffee"
       ],
       "status": "ACTIVE",
-      "price": "9.45",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 26,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoTradicional.jpg?v=1747171152"
+      "description": "O Pilão Tradicional é um café torrado e moído de sabor encorpado, aroma intenso e torra média escura, característico da marca líder no Brasil. Produzido com grãos selecionados, entrega uma bebida forte, marcante e consistente, perfeita para o consumo diário. Ideal para preparo no coador, cafeteira elétrica ou métodos tradicionais.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoTradicional.jpg?v=1747171152",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoTradicional.jpg?v=1747171152"
+      ],
+      "variants": [
+        {
+          "title": "500 g",
+          "price": "9.45",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 26,
+          "weight": 500.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262938"
+        }
+      ]
     },
     {
       "title": "Renata: Chocolate",
@@ -354,11 +642,23 @@
         "Baking"
       ],
       "status": "ACTIVE",
-      "price": "2.59",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RenataChocolate.webp?v=1773449271"
+      "description": "A Mistura para Bolo de Chocolate Renata é prática, saborosa e fácil de preparar. Produz um bolo macio, úmido e com sabor intenso de chocolate, ideal para o dia a dia, cafés da tarde ou sobremesas rápidas. Basta adicionar ovos, leite e manteiga para obter uma massa homogênea e de excelente resultado.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RenataChocolate.webp?v=1773449271",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RenataChocolate.webp?v=1773449271"
+      ],
+      "variants": [
+        {
+          "title": "400 g",
+          "price": "2.59",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 1,
+          "weight": 400.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261553"
+        }
+      ]
     },
     {
       "title": "Risque: Amarelindo",
@@ -367,11 +667,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "3.09",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 6,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RisqueAmarelindo.jpg?v=1747172161"
+      "description": "O Risqué Amarelindo é um esmalte amarelo vibrante, alegre e cheio de atitude. Com acabamento cremoso e cobertura uniforme, entrega um visual moderno e luminoso já nas primeiras camadas. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante unhas marcantes para quem gosta de cores ousadas e cheias de energia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RisqueAmarelindo.jpg?v=1747172161",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RisqueAmarelindo.jpg?v=1747172161"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "3.09",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 6,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261588"
+        }
+      ]
     },
     {
       "title": "Sazon: Alho",
@@ -380,11 +692,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.38",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 14,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132008698.webp?v=1747172852"
+      "description": "O Sazón Sabor Alho é o tempero ideal para quem ama aquele aroma forte e sabor característico do alho, mas quer praticidade no dia a dia. Ele realça o sabor natural dos alimentos sem precisar descascar, picar ou dourar alho — é só adicionar e pronto.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132008698.webp?v=1747172852",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132008698.webp?v=1747172852"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.38",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 14,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262020"
+        }
+      ]
     },
     {
       "title": "Sazon: Carnes",
@@ -393,11 +717,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.38",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 2,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019281.webp?v=1747173856"
+      "description": "O Sazón Sabor Carnes foi criado para deixar carnes mais saborosas, suculentas e aromáticas, trazendo aquele toque caseiro que transforma até as receitas mais simples. Ele combina especiarias selecionadas que realçam o sabor natural de bovinos, suínos e até carnes moídas, garantindo um resultado marcante e equilibrado.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019281.webp?v=1747173856",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019281.webp?v=1747173856"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.38",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 2,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262021"
+        }
+      ]
     },
     {
       "title": "Sazon: Feijao",
@@ -406,11 +742,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.34",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 46,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019724.webp?v=1747173814"
+      "description": "O Sazón Sabor Feijão é o tempero perfeito para deixar o feijão mais saboroso, aromático e com aquele gostinho de comida feita na hora. Ele combina especiarias selecionadas que realçam o sabor natural do feijão, deixando o caldo mais encorpado e cheio de personalidade.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019724.webp?v=1747173814",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019724.webp?v=1747173814"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.34",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 46,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262022"
+        }
+      ]
     },
     {
       "title": "Sazon: Frango",
@@ -419,11 +767,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.38",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019274.webp?v=1747173782"
+      "description": "O Sazón Sabor Frango é o tempero ideal para deixar pratos com frango mais saborosos, aromáticos e com aquele toque caseiro que transforma qualquer refeição. Ele combina especiarias equilibradas que realçam o sabor natural das carnes brancas sem pesar.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019274.webp?v=1747173782",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019274.webp?v=1747173782"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.38",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262023"
+        }
+      ]
     },
     {
       "title": "Sazon: Massas",
@@ -432,11 +792,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.34",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 3,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019717.webp?v=1747173747"
+      "description": "O Sazón para Massas é um tempero em pó desenvolvido para realçar o sabor de massas, molhos e preparações do dia a dia. Possui uma combinação equilibrada de ervas, especiarias e condimentos, trazendo praticidade e sabor imediato às receitas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019717.webp?v=1747173747",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019717.webp?v=1747173747"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.34",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 3,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262025"
+        }
+      ]
     },
     {
       "title": "Sazon: Nordeste",
@@ -445,11 +817,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.34",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 13,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132001101.webp?v=1747173722"
+      "description": "O Sazón Nordeste traz a essência da culinária nordestina em um sachê: temperos marcantes, aroma intenso e aquele sabor caseiro que transforma qualquer prato. Ele combina especiarias tradicionais que realçam carnes, feijão, legumes e até arroz, deixando tudo mais saboroso e com identidade regional.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132001101.webp?v=1747173722",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132001101.webp?v=1747173722"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.34",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 13,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262026"
+        }
+      ]
     },
     {
       "title": "Sazon: Sabor Galinha",
@@ -458,11 +842,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "1.25",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 16,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132110230_1.jpg?v=1773465818"
+      "description": "O Sazón Sabor Galinha é o tempero perfeito para deixar pratos do dia a dia mais saborosos, aromáticos e com aquele gostinho de comida feita em casa. Ele combina especiarias selecionadas que realçam o sabor natural de frango, sopas, arroz, legumes e muito mais.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132110230_1.jpg?v=1773465818",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132110230_1.jpg?v=1773465818"
+      ],
+      "variants": [
+        {
+          "title": "32.5 g",
+          "price": "1.25",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 16,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262027"
+        }
+      ]
     },
     {
       "title": "Sazon: Sabor Picanha",
@@ -471,11 +867,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "1.15",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 5,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/6441_thumb_1.jpg?v=1773466293"
+      "description": "O Sazón Sabor Picanha traz o tempero clássico da picanha brasileira direto para o dia a dia. Ele combina ervas, especiarias e um toque defumado que transforma carnes, legumes e até arroz em pratos com sabor de churrasco, sem complicação.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/6441_thumb_1.jpg?v=1773466293",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/6441_thumb_1.jpg?v=1773466293"
+      ],
+      "variants": [
+        {
+          "title": "32.5 g",
+          "price": "1.15",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 5,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262028"
+        }
+      ]
     },
     {
       "title": "Sazon: Tempero de Arroz",
@@ -484,11 +892,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "2.34",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 20,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132000449.webp?v=1747173622"
+      "description": "O Sazón Tempero para Arroz é a mistura perfeita para deixar o arroz soltinho, saboroso e com uma cor dourada irresistível. Ele combina temperos selecionados que realçam o sabor natural do arroz sem pesar, trazendo praticidade e aquele gostinho de comida feita com carinho.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132000449.webp?v=1747173622",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132000449.webp?v=1747173622"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "2.34",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 20,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52262030"
+        }
+      ]
     },
     {
       "title": "Risque: Duna",
@@ -497,11 +917,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850087_9407a664-8027-483f-a2bf-31d64a3aac4c.png?v=1747263139"
+      "description": "O Risqué Duna é um dos nudes mais icônicos da marca. Um tom areia claro, levemente rosado, suave e extremamente elegante. Ele entrega aquele visual natural, limpo e sofisticado, perfeito para quem ama unhas discretas, mas com acabamento profissional.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850087_9407a664-8027-483f-a2bf-31d64a3aac4c.png?v=1747263139",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850087_9407a664-8027-483f-a2bf-31d64a3aac4c.png?v=1747263139"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261602"
+        }
+      ]
     },
     {
       "title": "Risque: Secante Express",
@@ -510,11 +942,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "4.90",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350039344_b2534f92-52d8-4e18-a57c-49da7b7776b3.png?v=1747260468"
+      "description": "O Risqué Secante Express é o aliado perfeito para quem não tem tempo a perder. Ele forma uma película protetora que acelera a secagem do esmalte, evita borrões e ainda garante um brilho extra no acabamento. Ideal para uso profissional ou para quem quer unhas impecáveis em minutos.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350039344_b2534f92-52d8-4e18-a57c-49da7b7776b3.png?v=1747260468",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350039344_b2534f92-52d8-4e18-a57c-49da7b7776b3.png?v=1747260468"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "4.90",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261622"
+        }
+      ]
     },
     {
       "title": "Risque: Amarracao",
@@ -523,11 +967,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016131.jpg?v=1747257405"
+      "description": "O Risqué Amarração é um esmalte vermelho vibrante, moderno e cheio de personalidade. Com acabamento cremoso e brilho intenso, entrega uma cor marcante já na primeira camada. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante unhas impecáveis para o dia a dia ou para looks mais ousados. É um dos vermelhos mais desejados da paleta Risqué.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016131.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016131.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261589"
+        }
+      ]
     },
     {
       "title": "Risque: Astral",
@@ -536,11 +992,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840095.jpg?v=1747257405"
+      "description": "O Risqué Astral é um clássico da marca: um rosa claro, leve e feminino, com um toque cintilante que ilumina as unhas sem pesar. É aquele tom perfeito para quem gosta de delicadeza, naturalidade e um brilho discreto que combina com qualquer estilo.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840095.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840095.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261590"
+        }
+      ]
     },
     {
       "title": "Risque: AzulLivreMente",
@@ -549,11 +1017,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.59",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034103.jpg?v=1747257405"
+      "description": "O Risqué AzulLivreMente é um esmalte azul vibrante, moderno e cheio de atitude. Com acabamento cremoso e cobertura uniforme, entrega uma cor intensa já nas primeiras camadas. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante unhas marcantes e cheias de personalidade. É a escolha perfeita para quem gosta de cores ousadas e looks contemporâneos.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034103.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034103.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.59",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261591"
+        }
+      ]
     },
     {
       "title": "Risque: Querida Leitora",
@@ -562,11 +1042,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "3.75",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350042382_5fe3912c-3796-4b52-b7b8-c128454d76f5.png?v=1747260465"
+      "description": "O Risqué Querida Leitora é um rosa claro, romântico e elegante, daqueles que entregam feminilidade sem exagero. É um tom doce, suave e moderno, perfeito para quem gosta de unhas discretas, mas com personalidade. Ele tem aquele ar de “rosa de novela”, limpo, uniforme e super versátil.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350042382_5fe3912c-3796-4b52-b7b8-c128454d76f5.png?v=1747260465",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350042382_5fe3912c-3796-4b52-b7b8-c128454d76f5.png?v=1747260465"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "3.75",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261617"
+        }
+      ]
     },
     {
       "title": "Risque: Bali",
@@ -575,11 +1067,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996662.jpg?v=1747257405"
+      "description": "O Risqué Bali é um esmalte nude rosado sofisticado, delicado e extremamente versátil. Com acabamento cremoso e cobertura uniforme, ele entrega um visual elegante que combina com qualquer ocasião — do dia a dia aos looks mais refinados. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante unhas impecáveis com um tom suave e atemporal que nunca sai de moda.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996662.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996662.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261592"
+        }
+      ]
     },
     {
       "title": "Risque: Base Fortalecera",
@@ -588,11 +1092,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "3.26",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182023139.jpg?v=1747257405"
+      "description": "A Risqué Base Fortalecedora é uma base transparente desenvolvida para fortalecer as unhas, aumentar a resistência e preparar a superfície para uma esmaltação perfeita. Sua fórmula hipoalergênica ajuda a reduzir quebras, descamação e enfraquecimento, criando uma camada protetora que prolonga a durabilidade do esmalte. Ideal para uso diário, sozinha ou como primeira camada antes da cor.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182023139.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182023139.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "3.26",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261594"
+        }
+      ]
     },
     {
       "title": "Risque: Base Niveladora",
@@ -601,11 +1117,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "3.09",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991902.webp?v=1747263306"
+      "description": "A Risqué Base Niveladora é uma base de tratamento desenvolvida para corrigir imperfeições, nivelar a superfície das unhas e garantir uma esmaltação mais lisa e uniforme. Sua fórmula hipoalergênica preenche ondulações, melhora a aderência do esmalte e prolonga a durabilidade da cor. Ideal para quem busca acabamento profissional e unhas impecáveis no dia a dia",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991902.webp?v=1747263306",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991902.webp?v=1747263306"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "3.09",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261595"
+        }
+      ]
     },
     {
       "title": "Risque: Capuccino",
@@ -614,11 +1142,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996600.jpg?v=1747257405"
+      "description": "O Risqué Capuccino é um esmalte nude marrom claro, sofisticado e versátil, perfeito para quem busca unhas elegantes com um toque moderno. Seu acabamento cremoso garante cobertura uniforme e brilho discreto, ideal para uso diário ou para compor looks minimalistas. A fórmula hipoalergênica, de secagem rápida e longa duração, entrega praticidade e estilo em qualquer ocasião",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996600.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996600.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261597"
+        }
+      ]
     },
     {
       "title": "Risque: Carmin",
@@ -627,11 +1167,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182017053.jpg?v=1747257405"
+      "description": "O Risqué Carmim é aquele vermelho intenso, elegante e atemporal, perfeito para quem gosta de unhas marcantes sem exagero. Um tom profundo, levemente fechado, que transmite força, feminilidade e sofisticação em qualquer ocasião",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182017053.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182017053.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261598"
+        }
+      ]
     },
     {
       "title": "Risque: Cobertura Brilhante",
@@ -640,11 +1192,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "4.84",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991933.jpg?v=1747257405"
+      "description": "A Risqué Cobertura Brilhante é um finalizador transparente desenvolvido para intensificar o brilho, proteger a esmaltação e prolongar a durabilidade do esmalte. Sua fórmula hipoalergênica cria uma camada resistente que evita lascas, realça a cor e garante acabamento profissional. Ideal para quem busca unhas com brilho extra e aparência impecável por muito mais tempo.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991933.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991933.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "4.84",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261599"
+        }
+      ]
     },
     {
       "title": "Risque: Cristal",
@@ -653,11 +1217,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182860116.jpg?v=1747257405"
+      "description": "O Risqué Cristal é aquele esmalte transparente com microbrilhos delicados, perfeito para quem quer um toque de luminosidade sem perder a naturalidade. Ele cria um efeito cristalino, leve e sofisticado, ideal para usar sozinho ou como finalizador sobre outras cores.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182860116.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182860116.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261600"
+        }
+      ]
     },
     {
       "title": "Risque: Desejo",
@@ -666,11 +1242,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182031059.jpg?v=1747257405"
+      "description": "O Risqué Desejo é aquele vermelho vivo, aberto e luminoso que entrega impacto imediato. Um tom marcante, cheio de energia e feminilidade, perfeito para quem gosta de unhas que chamam atenção com elegância. É o vermelho “queridinho” para qualquer estação, sempre atual e com acabamento impecável.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182031059.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182031059.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261601"
+        }
+      ]
     },
     {
       "title": "Risque: Escarlata",
@@ -679,11 +1267,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182020206.jpg?v=1747257405"
+      "description": "O Risqué Escarlata é aquele vermelho tradicional que nunca sai de moda. Um tom vermelho profundo, elegante e marcante, perfeito para quem gosta de unhas poderosas, femininas e com acabamento impecável. É o tipo de cor que combina com tudo e entrega presença sem esforço.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182020206.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182020206.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261603"
+        }
+      ]
     },
     {
       "title": "Risque: Gabriela",
@@ -692,11 +1292,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840200.webp?v=1747262766"
+      "description": "O Risqué Gabriela é aquele vermelho fechado, intenso e super sofisticado, perfeito para quem ama unhas marcantes, femininas e com acabamento impecável. É um tom profundo, elegante e atemporal — o tipo de vermelho que combina com qualquer estilo e nunca perde o charme.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840200.webp?v=1747262766",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840200.webp?v=1747262766"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261604"
+        }
+      ]
     },
     {
       "title": "Risque: Gota Anjos",
@@ -705,11 +1317,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.75",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182014748.jpg?v=1747257405"
+      "description": "O Risqué Gota dos Anjos é aquele esmalte transparente com brilho suave, perfeito para quem busca unhas naturais, limpas e com um toque de luminosidade. Ele cria um efeito angelical, leve e elegante, ideal para usar sozinho ou como finalizador sobre outras cores.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182014748.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182014748.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.75",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261605"
+        }
+      ]
     },
     {
       "title": "Risque: Incolor",
@@ -718,11 +1342,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850018.webp?v=1747257405"
+      "description": "Risqué Incolor é um esmalte transparente clássico, ideal para dar brilho, proteger as unhas e finalizar qualquer esmaltação. Com fórmula hipoalergênica, secagem rápida e acabamento uniforme, é perfeito para uso diário, para quem prefere unhas naturais ou como base e cobertura em qualquer tipo de nail art. Um item essencial no kit de cuidados.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850018.webp?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850018.webp?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261607"
+        }
+      ]
     },
     {
       "title": "Risque: Leo mandou flores",
@@ -731,11 +1367,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016117.jpg?v=1747257405"
+      "description": "O Risqué Leo Mandou Flores é aquele nude rosado que combina delicadeza com presença. Um tom suave, feminino e moderno, perfeito para quem gosta de unhas discretas, mas com personalidade. Ele entrega um acabamento limpo, uniforme e com aquele ar de “unhas bem cuidadas” que funciona em qualquer ocasião.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016117.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016117.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261609"
+        }
+      ]
     },
     {
       "title": "Risque: Linda Leve e Nude",
@@ -744,11 +1392,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034349.webp?v=1747257405"
+      "description": "O Risqué Linda, Leve e Nude é um esmalte nude elegante, suave e versátil, perfeito para quem busca um visual natural com acabamento sofisticado. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante unhas impecáveis para o dia a dia ou para compor looks mais discretos e modernos. É um dos nudes mais procurados da marca.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034349.webp?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034349.webp?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261610"
+        }
+      ]
     },
     {
       "title": "Risque: Love",
@@ -757,11 +1417,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032476.jpg?v=1747263234"
+      "description": "O Esmalte Risqué Love faz parte da linha de vermelhos clássicos da Risqué. Possui acabamento cremoso, alta cobertura e secagem rápida, oferecendo um tom vermelho intenso e elegante. Ideal para uso diário ou ocasiões especiais, com fórmula de longa duração e aplicação uniforme.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032476.jpg?v=1747263234",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032476.jpg?v=1747263234"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261611"
+        }
+      ]
     },
     {
       "title": "Risque: Nude",
@@ -770,11 +1442,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032988.jpg?v=1747257405"
+      "description": "O Risqué Nude é aquele tom bege suave e sofisticado que combina com absolutamente tudo. Um esmalte perfeito para quem busca um visual limpo, discreto e extremamente elegante. Ele entrega cobertura uniforme, brilho natural e aquele acabamento profissional que funciona tanto no dia a dia quanto em ocasiões mais formais.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032988.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032988.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261612"
+        }
+      ]
     },
     {
       "title": "Risque: Paete",
@@ -783,11 +1467,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "3.09",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036061.jpg?v=1747257406"
+      "description": "O Risqué Paetê é aquele esmalte que transforma qualquer produção em destaque absoluto. Um tom escuro sofisticado, com microbrilhos prateados que criam um efeito de paetê moderno, elegante e super marcante. Ideal para quem gosta de unhas com personalidade, brilho na medida certa e um toque de glamour.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036061.jpg?v=1747257406",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036061.jpg?v=1747257406"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "3.09",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261613"
+        }
+      ]
     },
     {
       "title": "Risque: Paris",
@@ -796,11 +1492,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182001762.jpg?v=1747257405"
+      "description": "O Risqué Paris é um esmalte branco cremoso clássico, conhecido pela cobertura suave, acabamento uniforme e visual clean. É perfeito para quem busca unhas delicadas, elegantes e com aquele toque tradicional que nunca sai de moda. Sua fórmula hipoalergênica, de secagem rápida e longa duração, garante praticidade e um resultado impecável para o dia a dia ou para compor francesinhas perfeitas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182001762.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182001762.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261614"
+        }
+      ]
     },
     {
       "title": "Risque: Rebu",
@@ -809,11 +1517,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840149.jpg?v=1747257406"
+      "description": "O Risqué Rebu é um esmalte vermelho escuro clássico, intenso e sofisticado — um dos tons mais icônicos da marca. Com fórmula hipoalergênica, secagem rápida e longa duração, entrega um acabamento elegante e marcante, perfeito para quem gosta de unhas poderosas com brilho na medida certa. Ideal para uso diário, ocasiões especiais e produções mais ousadas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840149.jpg?v=1747257406",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840149.jpg?v=1747257406"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261618"
+        }
+      ]
     },
     {
       "title": "Risque: Renda",
@@ -822,11 +1542,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850025.jpg?v=1747257405"
+      "description": "O Risqué Renda é um esmalte branco transparente clássico, conhecido pelo acabamento delicado, uniforme e extremamente elegante. Ícone da linha Rendas do Brasil, é perfeito para quem busca unhas naturais com brilho suave, além de ser o favorito para francesinhas e nail arts minimalistas. Possui fórmula hipoalergênica, secagem rápida e longa duração, garantindo um visual limpo e sofisticado em qualquer ocasião.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850025.jpg?v=1747257405",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850025.jpg?v=1747257405"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261620"
+        }
+      ]
     },
     {
       "title": "Risque: Rendinha",
@@ -835,11 +1567,23 @@
         "Nail Polish"
       ],
       "status": "ACTIVE",
-      "price": "2.91",
-      "compare_at_price": null,
-      "available": true,
-      "inventory": 8,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036023.jpg?v=1747261870"
+      "description": "O Risqué Rendinha é um esmalte cremoso branco natural, clássico e delicado, ideal para quem busca unhas elegantes com acabamento suave. Pertence à linha Rendas do Brasil, famosa pela textura fina, cobertura uniforme e visual clean. Possui fórmula hipoalergênica, secagem rápida e longa duração — perfeito para uso diário ou para compor nail arts mais delicadas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036023.jpg?v=1747261870",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036023.jpg?v=1747261870"
+      ],
+      "variants": [
+        {
+          "title": "8 ml",
+          "price": "2.91",
+          "compare_at_price": null,
+          "available": true,
+          "inventory": 8,
+          "weight": 8.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261621"
+        }
+      ]
     },
     {
       "title": "Nescau",
@@ -848,11 +1592,23 @@
         "Achocolatados em Pó"
       ],
       "status": "ACTIVE",
-      "price": "4.89",
-      "compare_at_price": "5.29",
-      "available": true,
-      "inventory": 7,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/nescsau.webp?v=1773271674"
+      "description": "O Nescau Nestlé é um achocolatado em pó com sabor marcante de chocolate, ideal para preparar bebidas quentes ou geladas. Sua fórmula rende bem, dissolve facilmente e oferece energia para o dia a dia. É um produto tradicional, muito consumido em cafés da manhã, lanches e receitas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/nescsau.webp?v=1773271674",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/nescsau.webp?v=1773271674"
+      ],
+      "variants": [
+        {
+          "title": "370 g",
+          "price": "4.89",
+          "compare_at_price": "5.29",
+          "available": true,
+          "inventory": 7,
+          "weight": 370.0,
+          "weight_unit": "GRAMS",
+          "sku": "52261380"
+        }
+      ]
     },
     {
       "title": "Bombril: Eco Lã de Aço",
@@ -861,11 +1617,23 @@
         "Limpeza Doméstica"
       ],
       "status": "ACTIVE",
-      "price": "1.89",
-      "compare_at_price": "2.09",
-      "available": true,
-      "inventory": 10,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_9.png?v=1773449662"
+      "description": "A Lã de Aço Bombril Eco é ideal para limpeza pesada, remoção de sujeira difícil e polimento de superfícies metálicas. Produzida com fios de aço resistentes, oferece excelente abrasão e durabilidade, sendo um item essencial na limpeza doméstica e profissional",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_9.png?v=1773449662",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_9.png?v=1773449662"
+      ],
+      "variants": [
+        {
+          "title": "60 g",
+          "price": "1.89",
+          "compare_at_price": "2.09",
+          "available": true,
+          "inventory": 10,
+          "weight": 60.0,
+          "weight_unit": "GRAMS",
+          "sku": "52260250"
+        }
+      ]
     },
     {
       "title": "Bis: Branco",
@@ -874,11 +1642,23 @@
         "Chocolate"
       ],
       "status": "ACTIVE",
-      "price": "4.29",
-      "compare_at_price": "4.89",
-      "available": true,
-      "inventory": 10,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_10.png?v=1773446905"
+      "description": "O Bis Branco combina wafer crocante com uma deliciosa cobertura de chocolate branco Lacta. Leve, doce e irresistível, é perfeito para compartilhar, servir em festas ou aproveitar em um momento de pausa. As unidades vêm embaladas individualmente, garantindo praticidade e frescor.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_10.png?v=1773446905",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_10.png?v=1773446905"
+      ],
+      "variants": [
+        {
+          "title": "100 g",
+          "price": "4.29",
+          "compare_at_price": "4.89",
+          "available": true,
+          "inventory": 10,
+          "weight": 0.0,
+          "weight_unit": "POUNDS",
+          "sku": "52260214"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Galleta Mantequilla",
@@ -887,11 +1667,23 @@
         "Biscoitos"
       ],
       "status": "ACTIVE",
-      "price": "5.99",
-      "compare_at_price": "6.89",
-      "available": true,
-      "inventory": 10,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/245220-800-800.webp?v=1773451593"
+      "description": "As Galletas Mantequilla Pozuelo são biscoitos clássicos de manteiga, com textura leve e sabor suave. Perfeitas para acompanhar café, chá ou servir como lanche rápido. Embalagem prática e ideal para consumo diário ou para compor mesas de doces.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/245220-800-800.webp?v=1773451593",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/245220-800-800.webp?v=1773451593"
+      ],
+      "variants": [
+        {
+          "title": "312 g",
+          "price": "5.99",
+          "compare_at_price": "6.89",
+          "available": true,
+          "inventory": 10,
+          "weight": 11.0,
+          "weight_unit": "OUNCES",
+          "sku": "52263048"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Club Extra",
@@ -900,11 +1692,23 @@
         "Biscoitos"
       ],
       "status": "ACTIVE",
-      "price": "3.78",
-      "compare_at_price": "4.35",
-      "available": true,
-      "inventory": 10,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/club-extra-original_086581211318_Mustakshif.webp?v=1773446663"
+      "description": "Os Club Extra Pozuelo são crackers leves, crocantes e versáteis. Podem ser consumidos puros, com queijos, pastas, geleias ou usados em receitas. São uma opção prática para lanches, cafés da manhã ou para servir como aperitivo.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/club-extra-original_086581211318_Mustakshif.webp?v=1773446663",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/club-extra-original_086581211318_Mustakshif.webp?v=1773446663"
+      ],
+      "variants": [
+        {
+          "title": "300 g",
+          "price": "3.78",
+          "compare_at_price": "4.35",
+          "available": true,
+          "inventory": 10,
+          "weight": 10.6,
+          "weight_unit": "OUNCES",
+          "sku": "52263047"
+        }
+      ]
     },
     {
       "title": "Alpina: Avena Original",
@@ -913,11 +1717,23 @@
         "Bebidas Lácteas"
       ],
       "status": "ACTIVE",
-      "price": "5.78",
-      "compare_at_price": "6.65",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00083322052636_1.jpg?v=1773458154"
+      "description": "A Alpina Avena Original é uma bebida de aveia tradicional, cremosa e pronta para beber, muito popular entre consumidores latinos. Feita com aveia integral selecionada, oferece sabor suave, textura encorpada e nutrição prática para o dia a dia. Ideal para café da manhã, lanches ou como bebida refrescante a qualquer hora.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00083322052636_1.jpg?v=1773458154",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00083322052636_1.jpg?v=1773458154"
+      ],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.78",
+          "compare_at_price": "6.65",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52259289"
+        }
+      ]
     },
     {
       "title": "Nestle: Milo Chocolate Nutritional",
@@ -926,11 +1742,23 @@
         "Bebidas Lácteas"
       ],
       "status": "ACTIVE",
-      "price": "2.09",
-      "compare_at_price": "2.40",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/milo-569b702bc816b297c276398712100ac0549ddc27_jpg.webp?v=1773457828"
+      "description": "O Nestlé Milo é uma bebida nutricional de chocolate reconhecida mundialmente pelo sabor marcante e pelo aporte energético. Feito com malte, cacau e vitaminas essenciais, oferece nutrição prática para o dia a dia, sendo ideal para crianças, jovens e adultos que precisam de energia extra. Pode ser consumido quente ou gelado, dissolvido em leite ou água.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/milo-569b702bc816b297c276398712100ac0549ddc27_jpg.webp?v=1773457828",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/milo-569b702bc816b297c276398712100ac0549ddc27_jpg.webp?v=1773457828"
+      ],
+      "variants": [
+        {
+          "title": "250 ml",
+          "price": "2.09",
+          "compare_at_price": "2.40",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5512,
+          "weight_unit": "POUNDS",
+          "sku": "52261429"
+        }
+      ]
     },
     {
       "title": "Pony Malta",
@@ -939,11 +1767,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "7.56",
-      "compare_at_price": "8.69",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/4-bebida-pony-malta-bebidas-productos-latinos-en-espana-y-europa.webp?v=1773456999"
+      "description": "A Pony Malta é a bebida de malte mais tradicional da Colômbia, conhecida pelo sabor doce, encorpado e com notas de caramelo. Nutritiva, energética e sem álcool, é consumida por todas as idades e faz parte do dia a dia dos mercados latinos. Refrescante e marcante, é perfeita para acompanhar lanches, refeições rápidas ou simplesmente matar a vontade de um sabor autêntico colombiano.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/4-bebida-pony-malta-bebidas-productos-latinos-en-espana-y-europa.webp?v=1773456999",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/4-bebida-pony-malta-bebidas-productos-latinos-en-espana-y-europa.webp?v=1773456999"
+      ],
+      "variants": [
+        {
+          "title": "1.5 Liter",
+          "price": "7.56",
+          "compare_at_price": "8.69",
+          "available": true,
+          "inventory": 1,
+          "weight": 3.3069,
+          "weight_unit": "POUNDS",
+          "sku": "52263004"
+        }
+      ]
     },
     {
       "title": "Hit: Tropical",
@@ -952,11 +1792,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/large_470854f5-3060-4539-8f7e-27cc0e73d2a8.jpg?v=1773456568"
+      "description": "O Postobón Hit Tropical é uma bebida de fruta colombiana, doce, refrescante e muito popular em mercados latinos. Traz um sabor tropical característico, combinando notas de frutas amarelas, ideal para consumo diário, lanches e refeições rápidas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/large_470854f5-3060-4539-8f7e-27cc0e73d2a8.jpg?v=1773456568",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/large_470854f5-3060-4539-8f7e-27cc0e73d2a8.jpg?v=1773456568"
+      ],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258245"
+        }
+      ]
     },
     {
       "title": "Vive 100: Original",
@@ -965,11 +1817,23 @@
         "Energy Drink"
       ],
       "status": "ACTIVE",
-      "price": "1.99",
-      "compare_at_price": "2.29",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7702354929503_jpg.webp?v=1773456010"
+      "description": "O Vive 100 Original é um energético colombiano de alta popularidade, formulado para oferecer energia imediata, foco e disposição ao longo do dia. Com sabor marcante e perfil funcional, é ideal para quem precisa de um impulso rápido durante o trabalho, estudos ou atividades físicas.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7702354929503_jpg.webp?v=1773456010",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7702354929503_jpg.webp?v=1773456010"
+      ],
+      "variants": [
+        {
+          "title": "240 mL",
+          "price": "1.99",
+          "compare_at_price": "2.29",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5291,
+          "weight_unit": "POUNDS",
+          "sku": "52262647"
+        }
+      ]
     },
     {
       "title": "Speed Max: Energy drink",
@@ -978,11 +1842,23 @@
         "Energy Drink"
       ],
       "status": "ACTIVE",
-      "price": "3.45",
-      "compare_at_price": "3.97",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/speed-max-lata-x-269-ml.jpg?v=1773457568"
+      "description": "O Speed Max é um energético de alta intensidade, formulado para oferecer energia rápida, foco e disposição imediata. Com sabor marcante e perfil funcional, é ideal para quem precisa de um impulso extra durante treinos, trabalho, estudos ou longas jornadas. Refrescante, doce e com gás moderado, entrega performance e vitalidade em poucos minutos.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/speed-max-lata-x-269-ml.jpg?v=1773457568",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/speed-max-lata-x-269-ml.jpg?v=1773457568"
+      ],
+      "variants": [
+        {
+          "title": "269 mL",
+          "price": "3.45",
+          "compare_at_price": "3.97",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5952,
+          "weight_unit": "POUNDS",
+          "sku": "52262429"
+        }
+      ]
     },
     {
       "title": "Colombiana: Soda",
@@ -991,11 +1867,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "1.92",
-      "compare_at_price": "2.21",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00051202008752_c1n1.webp?v=1773457336"
+      "description": "A Colombiana é um dos refrigerantes mais tradicionais da Colômbia, famosa pelo sabor único que mistura notas de baunilha, caramelo e um toque leve de frutas. Conhecida como “La Nuestra”, é presença obrigatória em mesas colombianas, festas e refeições típicas. Refrescante, doce e com gás moderado, combina perfeitamente com pratos latinos.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00051202008752_c1n1.webp?v=1773457336",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00051202008752_c1n1.webp?v=1773457336"
+      ],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "1.92",
+          "compare_at_price": "2.21",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52258356"
+        }
+      ]
     },
     {
       "title": "Postobon: Pina",
@@ -1004,11 +1892,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "2.45",
-      "compare_at_price": "2.82",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/postobon2_1200x1200_4dede543-7795-4c51-8b6c-eebeb6de94f3.webp?v=1773455137"
+      "description": "A Postobón Piña é um refrigerante colombiano com sabor tropical de abacaxi, levemente doce e muito refrescante. Possui gás moderado e é ideal para consumo diário, festas e combinações com comidas latinas. É uma das bebidas mais tradicionais da marca Postobón.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/postobon2_1200x1200_4dede543-7795-4c51-8b6c-eebeb6de94f3.webp?v=1773455137",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/postobon2_1200x1200_4dede543-7795-4c51-8b6c-eebeb6de94f3.webp?v=1773455137"
+      ],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.45",
+          "compare_at_price": "2.82",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263034"
+        }
+      ]
     },
     {
       "title": "Hit: Mora",
@@ -1017,11 +1917,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "5.73",
-      "compare_at_price": "6.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Mora entrega o sabor intenso da mora madura em uma bebida refrescante, doce e naturalmente aromática. Sua textura leve realça o perfil frutado típico das bebidas latinas, oferecendo uma experiência vibrante e deliciosa. Ideal para consumir bem gelada, é perfeita para acompanhar refeições, lanches ou momentos de descontração.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.73",
+          "compare_at_price": "6.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258257"
+        }
+      ]
     },
     {
       "title": "Hit: Blackberry",
@@ -1030,11 +1940,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "2.89",
-      "compare_at_price": "3.32",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Blackberry combina o dulçor da amora com um aroma marcante e frutado. Refrescante e vibrante, traz um sabor encorpado que agrada imediatamente. Uma bebida perfeita para quem busca intensidade e frescor em cada gole.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "2.89",
+          "compare_at_price": "3.32",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258230"
+        }
+      ]
     },
     {
       "title": "Hit: Frutas tropicales",
@@ -1043,11 +1963,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "5.73",
-      "compare_at_price": "6.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Frutas tropicales reúne uma seleção de frutas latinas em um blend equilibrado, doce e extremamente refrescante. Seu aroma tropical e sabor vibrante fazem dela a escolha ideal para quem ama bebidas frutadas com personalidade.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.73",
+          "compare_at_price": "6.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258234"
+        }
+      ]
     },
     {
       "title": "HIt: Lulo",
@@ -1056,11 +1986,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "5.73",
-      "compare_at_price": "6.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A HIt: Lulo oferece o sabor autêntico do lulo colombiano: cítrico, fresco e aromático. Leve e revigorante, é perfeita para quem busca uma bebida diferente, com acidez equilibrada e toque frutado marcante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.73",
+          "compare_at_price": "6.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258247"
+        }
+      ]
     },
     {
       "title": "Hit: Mango",
@@ -1069,11 +2009,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "5.73",
-      "compare_at_price": "6.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Mango traz a cremosidade e o sabor doce da manga madura em uma bebida encorpada e tropical. Aromática e refrescante, é ideal para quem ama sabores intensos e frutados.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.73",
+          "compare_at_price": "6.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258252"
+        }
+      ]
     },
     {
       "title": "Hit: Naranja Pina",
@@ -1082,11 +2032,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "5.73",
-      "compare_at_price": "6.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Naranja Pina combina a acidez da laranja com a doçura do abacaxi, criando uma bebida refrescante, frutada e com aroma tropical irresistível. Perfeita para dias quentes e para quem busca frescor imediato.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1 Liter",
+          "price": "5.73",
+          "compare_at_price": "6.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 2.2046,
+          "weight_unit": "POUNDS",
+          "sku": "52258258"
+        }
+      ]
     },
     {
       "title": "Colombiana:Soda",
@@ -1095,11 +2055,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "3.93",
-      "compare_at_price": "4.52",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52258351.webp?v=1773772029"
+      "description": "A Colombiana:Soda é um clássico colombiano, conhecida por seu sabor doce, aromático e único. Refrescante e vibrante, é uma bebida tradicional que acompanha perfeitamente qualquer refeição.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52258351.webp?v=1773772029",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52258351.webp?v=1773772029"
+      ],
+      "variants": [
+        {
+          "title": "1.5 Liter",
+          "price": "3.93",
+          "compare_at_price": "4.52",
+          "available": true,
+          "inventory": 1,
+          "weight": 3.3069,
+          "weight_unit": "POUNDS",
+          "sku": "52258351"
+        }
+      ]
     },
     {
       "title": "Postobon: Apple Soda",
@@ -1108,11 +2080,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "4.09",
-      "compare_at_price": "4.70",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Apple Soda oferece um sabor doce e frutado de maçã, com refrescância marcante e aroma leve. Um refrigerante clássico da cultura colombiana, perfeito para qualquer momento.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "1.5 Liter",
+          "price": "4.09",
+          "compare_at_price": "4.70",
+          "available": true,
+          "inventory": 1,
+          "weight": 3.3069,
+          "weight_unit": "POUNDS",
+          "sku": "52263023"
+        }
+      ]
     },
     {
       "title": "Postobon: Kola Soda",
@@ -1121,11 +2103,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "5.95",
-      "compare_at_price": "6.84",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Kola Soda apresenta o sabor característico de cola latino-americana: doce, aromático e com personalidade marcante. Uma bebida clássica e refrescante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "2 Liter",
+          "price": "5.95",
+          "compare_at_price": "6.84",
+          "available": true,
+          "inventory": 1,
+          "weight": 4.4092,
+          "weight_unit": "POUNDS",
+          "sku": "52263030"
+        }
+      ]
     },
     {
       "title": "Pony Malta",
@@ -1134,11 +2126,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "11.18",
-      "compare_at_price": "12.86",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Pony Malta é uma bebida de malte tradicional, doce, encorpada e energética. Com sabor marcante e textura robusta, é perfeita para quem busca uma bebida nutritiva e cheia de personalidade.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "11.18",
+          "compare_at_price": "12.86",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52263007"
+        }
+      ]
     },
     {
       "title": "Hit: Blackberry Juice",
@@ -1147,11 +2149,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Blackberry Juice entrega o sabor profundo da amora madura em um suco doce, intenso e aromático. Ideal para quem aprecia bebidas frutadas mais encorpadas.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258236"
+        }
+      ]
     },
     {
       "title": "Hit: Lulo",
@@ -1160,11 +2172,23 @@
         "Juice"
       ],
       "status": "ACTIVE",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/hit-lulo-juice-drink-net-wt-8-oz-6.webp?v=1773539811"
+      "description": "A HIt: Lulo oferece o sabor autêntico do lulo colombiano: cítrico, fresco e aromático. Leve e revigorante, é perfeita para quem busca uma bebida diferente, com acidez equilibrada e toque frutado marcante.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/hit-lulo-juice-drink-net-wt-8-oz-6.webp?v=1773539811",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/hit-lulo-juice-drink-net-wt-8-oz-6.webp?v=1773539811"
+      ],
+      "variants": [
+        {
+          "title": "237 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258238"
+        }
+      ]
     },
     {
       "title": "Hit: Mango Juice",
@@ -1173,11 +2197,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Mango Juice traz o sabor da manga madura em um suco encorpado, doce e aromático. Tropical e refrescante, é ideal para qualquer momento do dia.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258239"
+        }
+      ]
     },
     {
       "title": "Hit: Orange Pineapple",
@@ -1186,11 +2220,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Orange Pineapple combina laranja e abacaxi em uma bebida leve, doce e refrescante. Seu aroma tropical e final cítrico tornam cada gole irresistível.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258241"
+        }
+      ]
     },
     {
       "title": "Hit: Tropical",
@@ -1199,11 +2243,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Tropical apresenta um blend vibrante de frutas latinas, com sabor doce, aroma intenso e refrescância marcante. Uma bebida perfeita para quem ama sabores tropicais.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258243"
+        }
+      ]
     },
     {
       "title": "Hit: Mango",
@@ -1212,11 +2266,21 @@
         "Juice"
       ],
       "status": "ARCHIVED",
-      "price": "1.69",
-      "compare_at_price": "1.94",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Hit: Mango traz a cremosidade e o sabor doce da manga madura em uma bebida encorpada e tropical. Aromática e refrescante, é ideal para quem ama sabores intensos e frutados.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "236 ml",
+          "price": "1.69",
+          "compare_at_price": "1.94",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5203,
+          "weight_unit": "POUNDS",
+          "sku": "52258253"
+        }
+      ]
     },
     {
       "title": "Postobon: Pina glass",
@@ -1225,11 +2289,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.24",
-      "compare_at_price": "2.58",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Pina glass é um refrigerante de abacaxi doce, aromático e vibrante, servido em garrafa de vidro para preservar o frescor e a intensidade do sabor.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "300 Ml",
+          "price": "2.24",
+          "compare_at_price": "2.58",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6614,
+          "weight_unit": "POUNDS",
+          "sku": "52263035"
+        }
+      ]
     },
     {
       "title": "Postobon de Naranja Glass",
@@ -1238,11 +2312,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.24",
-      "compare_at_price": "2.58",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon de Naranja Glass oferece o sabor cítrico e refrescante da laranja em sua versão mais clássica. Leve, aromática e perfeita para consumir gelada.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "300 mL",
+          "price": "2.24",
+          "compare_at_price": "2.58",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6614,
+          "weight_unit": "POUNDS",
+          "sku": "52263019"
+        }
+      ]
     },
     {
       "title": "Postobon: Bretana",
@@ -1251,11 +2335,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.90",
-      "compare_at_price": "3.34",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Bretana é uma água com gás tradicional colombiana, leve, pura e extremamente refrescante. Ideal para acompanhar refeições e equilibrar sabores.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "300 mL",
+          "price": "2.90",
+          "compare_at_price": "3.34",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6614,
+          "weight_unit": "POUNDS",
+          "sku": "52263024"
+        }
+      ]
     },
     {
       "title": "Speed Max: Energy drink",
@@ -1264,11 +2358,21 @@
         "Energy Drink"
       ],
       "status": "ARCHIVED",
-      "price": "3.45",
-      "compare_at_price": "3.97",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Speed Max: Energy drink entrega energia rápida com um sabor forte, doce e estimulante. Perfeita para quem precisa de disposição extra no dia a dia.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "310 mL",
+          "price": "3.45",
+          "compare_at_price": "3.97",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6834,
+          "weight_unit": "POUNDS",
+          "sku": "52262430"
+        }
+      ]
     },
     {
       "title": "Postobon: Manzana Soda",
@@ -1277,11 +2381,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "1.95",
-      "compare_at_price": "2.24",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Manzana Soda traz o sabor suave e doce da maçã em um refrigerante leve e refrescante. Um dos sabores mais tradicionais da marca.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "1.95",
+          "compare_at_price": "2.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263031"
+        }
+      ]
     },
     {
       "title": "Colombiana : Kola Flavored Glass",
@@ -1290,11 +2404,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.25",
-      "compare_at_price": "2.59",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Colombiana : Kola Flavored Glass oferece o sabor clássico de cola colombiana em garrafa de vidro, com dulçor equilibrado e aroma marcante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.25",
+          "compare_at_price": "2.59",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52258350"
+        }
+      ]
     },
     {
       "title": "Pony Malta Drink",
@@ -1303,11 +2427,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.10",
-      "compare_at_price": "2.42",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Pony Malta Drink é uma bebida de malte encorpada, doce e tradicional, perfeita para quem busca sabor intenso e energia natural.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.10",
+          "compare_at_price": "2.42",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263008"
+        }
+      ]
     },
     {
       "title": "Postobon Kola Flavored",
@@ -1316,11 +2450,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.45",
-      "compare_at_price": "2.82",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon Kola Flavored apresenta o sabor característico de cola latino-americana, doce, aromático e refrescante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.45",
+          "compare_at_price": "2.82",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263020"
+        }
+      ]
     },
     {
       "title": "Postobon: Glass Apple Soda",
@@ -1329,11 +2473,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.45",
-      "compare_at_price": "2.82",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Glass Apple Soda é um refrigerante de maçã em garrafa de vidro, com sabor frutado, doce e extremamente refrescante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.45",
+          "compare_at_price": "2.82",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263025"
+        }
+      ]
     },
     {
       "title": "Postobon: Glass Grape Soda",
@@ -1342,11 +2496,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "2.03",
-      "compare_at_price": "2.33",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Glass Grape Soda traz o sabor doce e vibrante da uva em uma soda aromática e refrescante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "2.03",
+          "compare_at_price": "2.33",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263026"
+        }
+      ]
     },
     {
       "title": "Postobon: Naranja",
@@ -1355,11 +2519,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "1.95",
-      "compare_at_price": "2.24",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Naranja oferece o sabor cítrico e refrescante da laranja em uma bebida leve e aromática.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "355 ml",
+          "price": "1.95",
+          "compare_at_price": "2.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.7826,
+          "weight_unit": "POUNDS",
+          "sku": "52263032"
+        }
+      ]
     },
     {
       "title": "Colombiana: Kola Soda",
@@ -1368,11 +2542,23 @@
         "Soda"
       ],
       "status": "ACTIVE",
-      "price": "1.84",
-      "compare_at_price": "2.12",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Kola_Soda_Colombiana_-_Botella_X_1_Unidad-Las_Americas_Supermarket.webp?v=1773540145"
+      "description": "A Colombiana: Kola Soda é um refrigerante de cola colombiano, doce, aromático e com sabor tradicional.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Kola_Soda_Colombiana_-_Botella_X_1_Unidad-Las_Americas_Supermarket.webp?v=1773540145",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Kola_Soda_Colombiana_-_Botella_X_1_Unidad-Las_Americas_Supermarket.webp?v=1773540145"
+      ],
+      "variants": [
+        {
+          "title": "400 mL",
+          "price": "1.84",
+          "compare_at_price": "2.12",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.8818,
+          "weight_unit": "POUNDS",
+          "sku": "52258354"
+        }
+      ]
     },
     {
       "title": "Postobon: Apple Soda",
@@ -1381,11 +2567,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "1.90",
-      "compare_at_price": "2.19",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Apple Soda oferece um sabor doce e frutado de maçã, com refrescância marcante e aroma leve. Um refrigerante clássico da cultura colombiana, perfeito para qualquer momento.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "400 mL",
+          "price": "1.90",
+          "compare_at_price": "2.19",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.8818,
+          "weight_unit": "POUNDS",
+          "sku": "52263022"
+        }
+      ]
     },
     {
       "title": "Postobon: Grape Soda",
@@ -1394,11 +2590,21 @@
         "Soda"
       ],
       "status": "ARCHIVED",
-      "price": "1.90",
-      "compare_at_price": "2.19",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "A Postobon: Grape Soda oferece o sabor doce e aromático da uva em uma bebida vibrante e refrescante.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "400 mL",
+          "price": "1.90",
+          "compare_at_price": "2.19",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.8818,
+          "weight_unit": "POUNDS",
+          "sku": "52263027"
+        }
+      ]
     },
     {
       "title": "Shaka laka: Chocolate",
@@ -1407,11 +2613,21 @@
         "Bebidas Lácteas"
       ],
       "status": "ARCHIVED",
-      "price": "1.24",
-      "compare_at_price": "1.24",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Bebida achocolatada Shaka Laka, cremosa e deliciosa, perfeita para o café da manhã ou lanche. Sabor rico em chocolate que toda a família vai adorar. Prática e saborosa em embalagem de 200 ml.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 ml",
+          "price": "1.24",
+          "compare_at_price": "1.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262262"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Bucatini",
@@ -1420,11 +2636,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão Bucatini Pasta Ina, feito com trigo selecionado para uma textura al dente perfeita. Ideal para molhos encorpados como amatriciana ou à bolonhesa. Rende bem e é fácil de preparar.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262805"
+        }
+      ]
     },
     {
       "title": "B&B: Ketchup Bolsita",
@@ -1433,11 +2659,23 @@
         "Sauce"
       ],
       "status": "ACTIVE",
-      "price": "1.68",
-      "compare_at_price": "1.68",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259429.png?v=1773771720"
+      "description": "Ketchup B&B em sachê individual, com sabor suave e levemente adocicado, ideal para acompanhar lanches, batatas fritas e salgados. Prático para levar para qualquer lugar.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259429.png?v=1773771720",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259429.png?v=1773771720"
+      ],
+      "variants": [
+        {
+          "title": "405 g",
+          "price": "1.68",
+          "compare_at_price": "1.68",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.8929,
+          "weight_unit": "POUNDS",
+          "sku": "52259429"
+        }
+      ]
     },
     {
       "title": "B&B: Mayonesa Bolsita",
@@ -1446,11 +2684,23 @@
         "Sauce"
       ],
       "status": "ACTIVE",
-      "price": "2.25",
-      "compare_at_price": "2.25",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259430.png?v=1773771892"
+      "description": "Maionese B&B em sachê, cremosa e com sabor equilibrado, ótima para sanduíches, saladas e como acompanhamento. Porção individual prática para o dia a dia.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259430.png?v=1773771892",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259430.png?v=1773771892"
+      ],
+      "variants": [
+        {
+          "title": "374 g",
+          "price": "2.25",
+          "compare_at_price": "2.25",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.8245,
+          "weight_unit": "POUNDS",
+          "sku": "52259430"
+        }
+      ]
     },
     {
       "title": "YaEsta: Rostizador Empanizador",
@@ -1459,11 +2709,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "0.83",
-      "compare_at_price": "0.83",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Tempero YaEsta para frango assado e empanados, com blend de especiarias que garante sabor suculento e casquinha crocante irresistível. Fácil de usar e resultado profissional em casa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "99 g",
+          "price": "0.83",
+          "compare_at_price": "0.83",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2183,
+          "weight_unit": "POUNDS",
+          "sku": "52263095"
+        }
+      ]
     },
     {
       "title": "Ya Esta: Empanizador Rostizador",
@@ -1472,11 +2732,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "1.00",
-      "compare_at_price": "1.00",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52263092.jpg?v=1773770889"
+      "description": "Mix de empanamento e tempero para assar Ya Esta, especialmente formulado para dar aquela crocância dourada perfeita em frangos e carnes. Resultado de restaurante sem sair de casa.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52263092.jpg?v=1773770889",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52263092.jpg?v=1773770889"
+      ],
+      "variants": [
+        {
+          "title": "113 g",
+          "price": "1.00",
+          "compare_at_price": "1.00",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2491,
+          "weight_unit": "POUNDS",
+          "sku": "52263092"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Vanilla Enrobed Cookies",
@@ -1485,11 +2757,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "2.50",
-      "compare_at_price": "2.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo recheados e cobertos com chocolate ao leite sabor baunilha. Crocantes por fora, cremosos por dentro — um clássico guatemalteco que agrada crianças e adultos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "479 g",
+          "price": "2.50",
+          "compare_at_price": "2.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.056,
+          "weight_unit": "POUNDS",
+          "sku": "52263046"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Strawberry Enrobed Cookies",
@@ -1498,11 +2780,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "3.38",
-      "compare_at_price": "3.38",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo com cobertura de chocolate sabor morango. Combinação irresistível de biscoito crocante com recheio frutado e adocicado. Um favorito da merenda!",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "227 g",
+          "price": "3.38",
+          "compare_at_price": "3.38",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5004,
+          "weight_unit": "POUNDS",
+          "sku": "52263045"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Chocolate Enrobed Cookies",
@@ -1511,11 +2803,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "3.38",
-      "compare_at_price": "3.38",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo com cobertura dupla de chocolate. Para os amantes de chocolate, é a combinação perfeita de textura crocante com sabor intenso de cacau.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "479 g",
+          "price": "3.38",
+          "compare_at_price": "3.38",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.056,
+          "weight_unit": "POUNDS",
+          "sku": "52263044"
+        }
+      ]
     },
     {
       "title": "Pippa: Pan Dona Zoila",
@@ -1524,11 +2826,21 @@
         "Bread"
       ],
       "status": "ARCHIVED",
-      "price": "5.50",
-      "compare_at_price": "5.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Pão artesanal Dona Zoila da Pippa, feito com receita tradicional guatemalteca. Macio, levemente adocicado e perfeito para o café da manhã ou sobremesa. Uma fatia que traz memórias afetivas à mesa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "300 g",
+          "price": "5.50",
+          "compare_at_price": "5.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6614,
+          "weight_unit": "POUNDS",
+          "sku": "52262952"
+        }
+      ]
     },
     {
       "title": "Picamas: Salsa Brava",
@@ -1537,11 +2849,21 @@
         "Sauce"
       ],
       "status": "ARCHIVED",
-      "price": "1.81",
-      "compare_at_price": "1.81",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Molho picante Salsa Brava Picamas, com pimenta selecionada e temperos que entregam um ardor equilibrado e muito sabor. Para quem não abre mão de apimentar tudo — tacos, tortas, carnes e muito mais.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "1.81",
+          "compare_at_price": "1.81",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262926"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Tornillo",
@@ -1550,11 +2872,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão parafuso Pasta Ina, com formato espiral que segura bem qualquer molho. Versátil para saladas de macarrão, pratos quentes e gratinados. Feito com trigo de qualidade.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262808"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Shells",
@@ -1563,11 +2895,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão conchinha Pasta Ina, ideal para sopas, saladas e pratos recheados. Seu formato côncavo captura o molho em cada garfada para uma experiência saborosa completa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262807"
+        }
+      ]
     },
     {
       "title": "Shangai: Chow Mein",
@@ -1576,11 +2918,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "3.86",
-      "compare_at_price": "3.86",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão Chow Mein Shangai, com tempero oriental já incorporado para um preparo ágil e saboroso. Refogue com seus ingredientes favoritos e tenha um prato no estilo asiático pronto em minutos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "178 g",
+          "price": "3.86",
+          "compare_at_price": "3.86",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3924,
+          "weight_unit": "POUNDS",
+          "sku": "52262265"
+        }
+      ]
     },
     {
       "title": "Shaka Laka: Vanilla",
@@ -1589,11 +2941,21 @@
         "Bebidas Lácteas"
       ],
       "status": "ARCHIVED",
-      "price": "1.24",
-      "compare_at_price": "1.24",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Bebida de baunilha Shaka Laka, com sabor suave e aroma delicado. Cremosa e refrescante, é perfeita para qualquer hora do dia. Uma opção diferenciada e gostosa para quem ama baunilha.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 ml",
+          "price": "1.24",
+          "compare_at_price": "1.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262263"
+        }
+      ]
     },
     {
       "title": "Tortrix: Frituras de Maiz con Chicharron sabor BBQ",
@@ -1602,11 +2964,21 @@
         "Chips"
       ],
       "status": "ARCHIVED",
-      "price": "4.27",
-      "compare_at_price": "4.27",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Salgadinho de milho com torresmo sabor churrasco Tortrix — crocante, defumado e com aquele gostinho de festa que vicia. O snack guatemalteco mais amado, agora disponível aqui. Embalagem de 150g.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "150 g",
+          "price": "4.27",
+          "compare_at_price": "4.27",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3307,
+          "weight_unit": "POUNDS",
+          "sku": "52262203"
+        }
+      ]
     },
     {
       "title": "Malher: Tomato Beef Bouillon",
@@ -1615,11 +2987,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "1.79",
-      "compare_at_price": "1.79",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de carne com tomate Malher, tempero versátil que adiciona profundidade e sabor autêntico a sopas, guisados, arroz e molhos. Prático e com receita clássica guatemalteca.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "198 g",
+          "price": "1.79",
+          "compare_at_price": "1.79",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4365,
+          "weight_unit": "POUNDS",
+          "sku": "52261252"
+        }
+      ]
     },
     {
       "title": "Malher: Seasoning Salt",
@@ -1628,11 +3010,23 @@
         "Seasoning"
       ],
       "status": "ACTIVE",
-      "price": "3.33",
-      "compare_at_price": "3.33",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/61HeDgDPAYL.jpg_BO30_255_255_255_UF750_750_SR1910_1000_0_C_QL100.jpg?v=1773552511"
+      "description": "Sal temperado Malher, com blend equilibrado de ervas e especiarias que realça o sabor natural de carnes, vegetais e saladas. O tempero coringa da cozinha guatemalteca.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/61HeDgDPAYL.jpg_BO30_255_255_255_UF750_750_SR1910_1000_0_C_QL100.jpg?v=1773552511",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/61HeDgDPAYL.jpg_BO30_255_255_255_UF750_750_SR1910_1000_0_C_QL100.jpg?v=1773552511"
+      ],
+      "variants": [
+        {
+          "title": "249 g",
+          "price": "3.33",
+          "compare_at_price": "3.33",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.549,
+          "weight_unit": "POUNDS",
+          "sku": "52261251"
+        }
+      ]
     },
     {
       "title": "Malher: Chicken Flavor Bouillon",
@@ -1641,11 +3035,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "3.17",
-      "compare_at_price": "3.17",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de frango Malher, rico em sabor e aroma, ideal para temperar sopas, caldos, arroz e qualquer prato que precise de um toque especial. Praticidade e sabor caseiro em pó.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "454 g",
+          "price": "3.17",
+          "compare_at_price": "3.17",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.0009,
+          "weight_unit": "POUNDS",
+          "sku": "52261250"
+        }
+      ]
     },
     {
       "title": "Maggi: Cola de Res",
@@ -1654,11 +3058,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "1.33",
-      "compare_at_price": "1.33",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de rabo de boi Maggi, com sabor intenso e encorpado para sopas e caldos tradicionais. Traz aquele gosto de comida feita com carinho, de forma prática e rápida.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "76 g",
+          "price": "1.33",
+          "compare_at_price": "1.33",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.1676,
+          "weight_unit": "POUNDS",
+          "sku": "52260925"
+        }
+      ]
     },
     {
       "title": "Incaparina: Hot Cereal Mix",
@@ -1667,11 +3081,23 @@
         "Cereals"
       ],
       "status": "ACTIVE",
-      "price": "2.36",
-      "compare_at_price": "2.36",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Incaparina-Corn-Soy-Cereal-15-9-oz-Cereal-de-Maiz-y-Soya-Pack-of-12_f388fce6-e4f9-4d34-a10b-60f64175a36a_1.37d7d1cb639cd1ce168a2fd9e7029c51.avif?v=1773552673"
+      "description": "Mingau nutritivo Incaparina, alimento guatemalteco tradicional rico em proteínas e vitaminas. Cremoso, levemente adocicado e fácil de preparar — uma opção saudável e reconfortante para todas as idades.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Incaparina-Corn-Soy-Cereal-15-9-oz-Cereal-de-Maiz-y-Soya-Pack-of-12_f388fce6-e4f9-4d34-a10b-60f64175a36a_1.37d7d1cb639cd1ce168a2fd9e7029c51.avif?v=1773552673",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Incaparina-Corn-Soy-Cereal-15-9-oz-Cereal-de-Maiz-y-Soya-Pack-of-12_f388fce6-e4f9-4d34-a10b-60f64175a36a_1.37d7d1cb639cd1ce168a2fd9e7029c51.avif?v=1773552673"
+      ],
+      "variants": [
+        {
+          "title": "450 g",
+          "price": "2.36",
+          "compare_at_price": "2.36",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.9921,
+          "weight_unit": "POUNDS",
+          "sku": "52260418"
+        }
+      ]
     },
     {
       "title": "Ina: Chao Mein",
@@ -1680,11 +3106,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "1.50",
-      "compare_at_price": "1.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão oriental Chao Mein Ina, já temperado para um preparo ágil e saboroso. Refogue com seus ingredientes favoritos e tenha um prato no estilo asiático pronto em minutos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "178 g",
+          "price": "1.50",
+          "compare_at_price": "1.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3924,
+          "weight_unit": "POUNDS",
+          "sku": "52260410"
+        }
+      ]
     },
     {
       "title": "B &B: Horchata",
@@ -1693,11 +3129,23 @@
         "Bebidas Lácteas"
       ],
       "status": "ACTIVE",
-      "price": "4.16",
-      "compare_at_price": "4.16",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259427.png?v=1773554203"
+      "description": "Horchata B&B, bebida tradicional guatemalteca feita com sementes de morro, canela e especiarias. Refrescante, aromática e com sabor único que remete à autêntica culinária da Guatemala.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259427.png?v=1773554203",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259427.png?v=1773554203"
+      ],
+      "variants": [
+        {
+          "title": "638 g",
+          "price": "4.16",
+          "compare_at_price": "4.16",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.5,
+          "weight_unit": "POUNDS",
+          "sku": "52259427"
+        }
+      ]
     },
     {
       "title": "Comali: Alborotos",
@@ -1706,11 +3154,21 @@
         "Sweet Snacks"
       ],
       "status": "ARCHIVED",
-      "price": "4.25",
-      "compare_at_price": "4.25",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Alborotos Comali, pipoca caramelizada guatemalteca temperada com especiarias únicas que criam um sabor inconfundível — doce, picante e crocante ao mesmo tempo. Um petisco diferente que surpreende!",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "113 g",
+          "price": "4.25",
+          "compare_at_price": "4.25",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2491,
+          "weight_unit": "POUNDS",
+          "sku": "52258393"
+        }
+      ]
     },
     {
       "title": "Shaka laka: Chocolate",
@@ -1719,11 +3177,21 @@
         "Bebidas Lácteas"
       ],
       "status": "ARCHIVED",
-      "price": "1.24",
-      "compare_at_price": "1.24",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Bebida achocolatada Shaka Laka, cremosa e deliciosa, perfeita para o café da manhã ou lanche. Sabor rico em chocolate que toda a família vai adorar. Prática e saborosa em embalagem de 200 ml.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 ml",
+          "price": "1.24",
+          "compare_at_price": "1.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262262"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Bucatini",
@@ -1732,11 +3200,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão Bucatini Pasta Ina, feito com trigo selecionado para uma textura al dente perfeita. Ideal para molhos encorpados como amatriciana ou à bolonhesa. Rende bem e é fácil de preparar.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262805"
+        }
+      ]
     },
     {
       "title": "YaEsta: Rostizador Empanizador",
@@ -1745,11 +3223,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "0.83",
-      "compare_at_price": "0.83",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Tempero YaEsta para frango assado e empanados, com blend de especiarias que garante sabor suculento e casquinha crocante irresistível. Fácil de usar e resultado profissional em casa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "99 g",
+          "price": "0.83",
+          "compare_at_price": "0.83",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2183,
+          "weight_unit": "POUNDS",
+          "sku": "52263095"
+        }
+      ]
     },
     {
       "title": "Ya Esta: Empanizador Rostizador",
@@ -1758,11 +3246,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "1.00",
-      "compare_at_price": "1.00",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Mix de empanamento e tempero para assar Ya Esta, especialmente formulado para dar aquela crocância dourada perfeita em frangos e carnes. Resultado de restaurante sem sair de casa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "113 g",
+          "price": "1.00",
+          "compare_at_price": "1.00",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2491,
+          "weight_unit": "POUNDS",
+          "sku": "52263092"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Vanilla Enrobed Cookies",
@@ -1771,11 +3269,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "2.50",
-      "compare_at_price": "2.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo recheados e cobertos com chocolate ao leite sabor baunilha. Crocantes por fora, cremosos por dentro — um clássico guatemalteco que agrada crianças e adultos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "479 g",
+          "price": "2.50",
+          "compare_at_price": "2.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.056,
+          "weight_unit": "POUNDS",
+          "sku": "52263046"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Strawberry Enrobed Cookies",
@@ -1784,11 +3292,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "3.38",
-      "compare_at_price": "3.38",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo com cobertura de chocolate sabor morango. Combinação irresistível de biscoito crocante com recheio frutado e adocicado. Um favorito da merenda!",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "227 g",
+          "price": "3.38",
+          "compare_at_price": "3.38",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.5004,
+          "weight_unit": "POUNDS",
+          "sku": "52263045"
+        }
+      ]
     },
     {
       "title": "Pozuelo: Chiky Chocolate Enrobed Cookies",
@@ -1797,11 +3315,21 @@
         "Biscoitos"
       ],
       "status": "ARCHIVED",
-      "price": "3.38",
-      "compare_at_price": "3.38",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Biscoitos Chiky Pozuelo com cobertura dupla de chocolate. Para os amantes de chocolate, é a combinação perfeita de textura crocante com sabor intenso de cacau.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "479 g",
+          "price": "3.38",
+          "compare_at_price": "3.38",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.056,
+          "weight_unit": "POUNDS",
+          "sku": "52263044"
+        }
+      ]
     },
     {
       "title": "Pippa: Pan Dona Zoila",
@@ -1810,11 +3338,21 @@
         "Bread"
       ],
       "status": "ARCHIVED",
-      "price": "5.50",
-      "compare_at_price": "5.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Pão artesanal Dona Zoila da Pippa, feito com receita tradicional guatemalteca. Macio, levemente adocicado e perfeito para o café da manhã ou sobremesa. Uma fatia que traz memórias afetivas à mesa.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "300 g",
+          "price": "5.50",
+          "compare_at_price": "5.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.6614,
+          "weight_unit": "POUNDS",
+          "sku": "52262952"
+        }
+      ]
     },
     {
       "title": "Picamas: Salsa Brava",
@@ -1823,11 +3361,21 @@
         "Sauce"
       ],
       "status": "ARCHIVED",
-      "price": "1.81",
-      "compare_at_price": "1.81",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Molho picante Salsa Brava Picamas, com pimenta selecionada e temperos que entregam um ardor equilibrado e muito sabor. Para quem não abre mão de apimentar tudo — tacos, tortas, carnes e muito mais.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "1.81",
+          "compare_at_price": "1.81",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262926"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Tornillo",
@@ -1836,11 +3384,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão parafuso Pasta Ina, com formato espiral que segura bem qualquer molho. Versátil para saladas de macarrão, pratos quentes e gratinados. Feito com trigo de qualidade.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262808"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Shells",
@@ -1849,11 +3407,23 @@
         "Pasta"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262807.png?v=1773873984"
+      "description": "Macarrão conchinha Pasta Ina, ideal para sopas, saladas e pratos recheados. Seu formato côncavo captura o molho em cada garfada para uma experiência saborosa completa.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262807.png?v=1773873984",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262807.png?v=1773873984"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262807"
+        }
+      ]
     },
     {
       "title": "Pasta Ina: Elbows",
@@ -1862,11 +3432,23 @@
         "Pasta"
       ],
       "status": "ACTIVE",
-      "price": "0.80",
-      "compare_at_price": "0.80",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262806.webp?v=1773772278"
+      "description": "Macarrão cotovelo Pasta Ina, o clássico formato para macarrão com queijo, saladas e sopas. Cozimento rápido e textura firme garantida em cada preparo.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262806.webp?v=1773772278",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262806.webp?v=1773772278"
+      ],
+      "variants": [
+        {
+          "title": "200 g",
+          "price": "0.80",
+          "compare_at_price": "0.80",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262806"
+        }
+      ]
     },
     {
       "title": "Shangai: Chow Mein",
@@ -1875,11 +3457,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "3.86",
-      "compare_at_price": "3.86",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão Chow Mein Shangai, com tempero oriental já incorporado para um preparo ágil e saboroso. Refogue com seus ingredientes favoritos e tenha um prato no estilo asiático pronto em minutos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "178 g",
+          "price": "3.86",
+          "compare_at_price": "3.86",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3924,
+          "weight_unit": "POUNDS",
+          "sku": "52262265"
+        }
+      ]
     },
     {
       "title": "Shaka Laka: Vanilla",
@@ -1888,11 +3480,23 @@
         "Bebidas Lácteas"
       ],
       "status": "ACTIVE",
-      "price": "1.24",
-      "compare_at_price": "1.24",
-      "available": true,
-      "inventory": 1,
-      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262263.webp?v=1773770577"
+      "description": "Bebida de baunilha Shaka Laka, com sabor suave e aroma delicado. Cremosa e refrescante, é perfeita para qualquer hora do dia. Uma opção diferenciada e gostosa para quem ama baunilha.",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262263.webp?v=1773770577",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262263.webp?v=1773770577"
+      ],
+      "variants": [
+        {
+          "title": "200 ml",
+          "price": "1.24",
+          "compare_at_price": "1.24",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4409,
+          "weight_unit": "POUNDS",
+          "sku": "52262263"
+        }
+      ]
     },
     {
       "title": "Tortrix: Frituras de Maiz con Chicharron sabor BBQ",
@@ -1901,11 +3505,21 @@
         "Chips"
       ],
       "status": "ARCHIVED",
-      "price": "4.27",
-      "compare_at_price": "4.27",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Salgadinho de milho com torresmo sabor churrasco Tortrix — crocante, defumado e com aquele gostinho de festa que vicia. O snack guatemalteco mais amado, agora disponível aqui. Embalagem de 150g.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "150 g",
+          "price": "4.27",
+          "compare_at_price": "4.27",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3307,
+          "weight_unit": "POUNDS",
+          "sku": "52262203"
+        }
+      ]
     },
     {
       "title": "Malher: Tomato Beef Bouillon",
@@ -1914,11 +3528,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "1.79",
-      "compare_at_price": "1.79",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de carne com tomate Malher, tempero versátil que adiciona profundidade e sabor autêntico a sopas, guisados, arroz e molhos. Prático e com receita clássica guatemalteca.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "198 g",
+          "price": "1.79",
+          "compare_at_price": "1.79",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.4365,
+          "weight_unit": "POUNDS",
+          "sku": "52261252"
+        }
+      ]
     },
     {
       "title": "Malher: Seasoning Salt",
@@ -1927,11 +3551,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "3.33",
-      "compare_at_price": "3.33",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Sal temperado Malher, com blend equilibrado de ervas e especiarias que realça o sabor natural de carnes, vegetais e saladas. O tempero coringa da cozinha guatemalteca.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "249 g",
+          "price": "3.33",
+          "compare_at_price": "3.33",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.549,
+          "weight_unit": "POUNDS",
+          "sku": "52261251"
+        }
+      ]
     },
     {
       "title": "Malher: Chicken Flavor Bouillon",
@@ -1940,11 +3574,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "3.17",
-      "compare_at_price": "3.17",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de frango Malher, rico em sabor e aroma, ideal para temperar sopas, caldos, arroz e qualquer prato que precise de um toque especial. Praticidade e sabor caseiro em pó.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "454 g",
+          "price": "3.17",
+          "compare_at_price": "3.17",
+          "available": true,
+          "inventory": 1,
+          "weight": 1.0009,
+          "weight_unit": "POUNDS",
+          "sku": "52261250"
+        }
+      ]
     },
     {
       "title": "Maggi: Cola de Res",
@@ -1953,11 +3597,21 @@
         "Seasoning"
       ],
       "status": "ARCHIVED",
-      "price": "1.33",
-      "compare_at_price": "1.33",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Caldo de rabo de boi Maggi, com sabor intenso e encorpado para sopas e caldos tradicionais. Traz aquele gosto de comida feita com carinho, de forma prática e rápida.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "76 g",
+          "price": "1.33",
+          "compare_at_price": "1.33",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.1676,
+          "weight_unit": "POUNDS",
+          "sku": "52260925"
+        }
+      ]
     },
     {
       "title": "Incaparina: Hot Cereal Mix",
@@ -1966,11 +3620,21 @@
         "Cereals"
       ],
       "status": "ARCHIVED",
-      "price": "2.36",
-      "compare_at_price": "2.36",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Mingau nutritivo Incaparina, alimento guatemalteco tradicional rico em proteínas e vitaminas. Cremoso, levemente adocicado e fácil de preparar — uma opção saudável e reconfortante para todas as idades.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "450 g",
+          "price": "2.36",
+          "compare_at_price": "2.36",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.9921,
+          "weight_unit": "POUNDS",
+          "sku": "52260418"
+        }
+      ]
     },
     {
       "title": "Ina: Chao Mein",
@@ -1979,11 +3643,21 @@
         "Pasta"
       ],
       "status": "ARCHIVED",
-      "price": "1.50",
-      "compare_at_price": "1.50",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Macarrão oriental Chao Mein Ina, já temperado para um preparo ágil e saboroso. Refogue com seus ingredientes favoritos e tenha um prato no estilo asiático pronto em minutos.",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "178 g",
+          "price": "1.50",
+          "compare_at_price": "1.50",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.3924,
+          "weight_unit": "POUNDS",
+          "sku": "52260410"
+        }
+      ]
     },
     {
       "title": "Comali: Alborotos",
@@ -1992,11 +3666,21 @@
         "Sweet Snacks"
       ],
       "status": "ARCHIVED",
-      "price": "4.25",
-      "compare_at_price": "4.25",
-      "available": true,
-      "inventory": 1,
-      "image": null
+      "description": "Alborotos Comali, pipoca caramelizada guatemalteca temperada com especiarias únicas que criam um sabor inconfundível — doce, picante e crocante ao mesmo tempo. Um petisco diferente que surpreende!",
+      "featured_image": null,
+      "images": [],
+      "variants": [
+        {
+          "title": "113 g",
+          "price": "4.25",
+          "compare_at_price": "4.25",
+          "available": true,
+          "inventory": 1,
+          "weight": 0.2491,
+          "weight_unit": "POUNDS",
+          "sku": "52258393"
+        }
+      ]
     }
   ]
 }

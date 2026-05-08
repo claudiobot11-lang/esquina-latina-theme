@@ -1,0 +1,2002 @@
+{
+  "total": 151,
+  "vendors": [
+    "Brazil",
+    "Colombia",
+    "El Salvador",
+    "Costa Rica",
+    "Guatemala",
+    "Honduras",
+    "Nicaragua",
+    "Peru"
+  ],
+  "categories": [
+    "Achocolatados em Pó",
+    "Baking",
+    "Bebidas Lácteas",
+    "Biscoitos",
+    "Bread",
+    "Cereals",
+    "Chips",
+    "Chocolate",
+    "Coffee",
+    "Cookies",
+    "Energy Drink",
+    "Flours & Starches",
+    "Grains",
+    "Juice",
+    "Limpeza Doméstica",
+    "Nail Polish",
+    "Pasta",
+    "Sauce",
+    "Seasoning",
+    "Soda",
+    "Soups",
+    "Sweet Snacks"
+  ],
+  "products": [
+    {
+      "title": "Amafil: Tapioca",
+      "vendor": "Brazil",
+      "tags": [
+        "Flours & Starches"
+      ],
+      "status": "ACTIVE",
+      "price": "2.67",
+      "compare_at_price": null,
+      "available": false,
+      "inventory": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/amafil-tapioca-hidratada-500g-seabra-foods-online_600x600_bce24307-9587-4042-b79c-c7c4b8e07b0c.webp?v=1773469105"
+    },
+    {
+      "title": "Amafil: Polvilho Doce Premium",
+      "vendor": "Brazil",
+      "tags": [
+        "Flours & Starches"
+      ],
+      "status": "ACTIVE",
+      "price": "4.39",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 42,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Polvilho_Doce.jpg?v=1773469050"
+    },
+    {
+      "title": "Galletas Noel: Ducales Golden",
+      "vendor": "Colombia",
+      "tags": [
+        "Cookies"
+      ],
+      "status": "ACTIVE",
+      "price": "3.07",
+      "compare_at_price": "3.99",
+      "available": true,
+      "inventory": 23,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/GalletasNoelDucalesGolden.jpg?v=1746914850"
+    },
+    {
+      "title": "La Salvadorena: Cafe Listo",
+      "vendor": "El Salvador",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "10.42",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LaSalvadorenaCafeListo.jpg?v=1746914852"
+    },
+    {
+      "title": "Lizano: Sauce",
+      "vendor": "Costa Rica",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ACTIVE",
+      "price": "8.99",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/LizanoSauce.jpg?v=1746914852"
+    },
+    {
+      "title": "Maggi: Gallina India",
+      "vendor": "Guatemala",
+      "tags": [
+        "Soups"
+      ],
+      "status": "ACTIVE",
+      "price": "2.60",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/MaggiGallinaIndia.jpg?v=1746914853"
+    },
+    {
+      "title": "Don julio: Soy sauce",
+      "vendor": "Honduras",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ACTIVE",
+      "price": "4.05",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 39,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/DonjulioSoysauce.jpg?v=1746914849"
+    },
+    {
+      "title": "El Caracol: Cebada Molida",
+      "vendor": "Nicaragua",
+      "tags": [
+        "Grains"
+      ],
+      "status": "ACTIVE",
+      "price": "5.05",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/ElCaracolCebadaMolida.webp?v=1746914850"
+    },
+    {
+      "title": "Inca Kola",
+      "vendor": "Peru",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "2.65",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/IncaKola.webp?v=1746914851"
+    },
+    {
+      "title": "Tang: Goiaba",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 49,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangGoiaba.jpg?v=1773466859"
+    },
+    {
+      "title": "Tang: Manga",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 49,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangManga.webp?v=1746916366"
+    },
+    {
+      "title": "Tang: Limao",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 53,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLimao.webp?v=1746917239"
+    },
+    {
+      "title": "Tang: Laranja",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 60,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangLaranja.webp?v=1773466886"
+    },
+    {
+      "title": "Tang: Maracuja",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 44,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMaracuja.jpg?v=1746916015"
+    },
+    {
+      "title": "Tang: Morango",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 50,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangMorango.jpg?v=1746915915"
+    },
+    {
+      "title": "Tang: Abacaxi",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 53,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangAbacaxi.webp?v=1773466916"
+    },
+    {
+      "title": "Tang: Uva",
+      "vendor": "Brazil",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.99",
+      "available": true,
+      "inventory": 50,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/TangUva_c688867a-0cd9-4b68-abd1-db1c41d487db.jpg?v=1746917281"
+    },
+    {
+      "title": "3 Coracoes: Cappuccino Tradicional",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "11.30",
+      "compare_at_price": null,
+      "available": false,
+      "inventory": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappuccinoTradicional.webp?v=1747161356"
+    },
+    {
+      "title": "3 Coracoes: Cappucino Classic",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "7.59",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesCappucinoClassic200g.webp?v=1747161901"
+    },
+    {
+      "title": "3 coracoes: Capuccino Chocolate",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "7.29",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 31,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3coracoesCapuccinoChocolate.webp?v=1747162020"
+    },
+    {
+      "title": "3 Coracoes: Gourmet Dark Roast",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "6.49",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 18,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesGourmetDarkRoast.webp?v=1747162289"
+    },
+    {
+      "title": "3 Coracoes: Instant Coffe",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "8.99",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/3CoracoesInstantCoffe.webp?v=1747162874"
+    },
+    {
+      "title": "Pilao: Cafe 252 Graus",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "8.40",
+      "compare_at_price": null,
+      "available": false,
+      "inventory": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoCafe252Graus.webp?v=1747171068"
+    },
+    {
+      "title": "Pilao: Tradicional",
+      "vendor": "Brazil",
+      "tags": [
+        "Coffee"
+      ],
+      "status": "ACTIVE",
+      "price": "9.45",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 26,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/PilaoTradicional.jpg?v=1747171152"
+    },
+    {
+      "title": "Renata: Chocolate",
+      "vendor": "Brazil",
+      "tags": [
+        "Baking"
+      ],
+      "status": "ACTIVE",
+      "price": "2.59",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RenataChocolate.webp?v=1773449271"
+    },
+    {
+      "title": "Risque: Amarelindo",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "3.09",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/RisqueAmarelindo.jpg?v=1747172161"
+    },
+    {
+      "title": "Sazon: Alho",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.38",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 14,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132008698.webp?v=1747172852"
+    },
+    {
+      "title": "Sazon: Carnes",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.38",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019281.webp?v=1747173856"
+    },
+    {
+      "title": "Sazon: Feijao",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.34",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 46,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019724.webp?v=1747173814"
+    },
+    {
+      "title": "Sazon: Frango",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.38",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019274.webp?v=1747173782"
+    },
+    {
+      "title": "Sazon: Massas",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.34",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132019717.webp?v=1747173747"
+    },
+    {
+      "title": "Sazon: Nordeste",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.34",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 13,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132001101.webp?v=1747173722"
+    },
+    {
+      "title": "Sazon: Sabor Galinha",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "1.25",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 16,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132110230_1.jpg?v=1773465818"
+    },
+    {
+      "title": "Sazon: Sabor Picanha",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "1.15",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/6441_thumb_1.jpg?v=1773466293"
+    },
+    {
+      "title": "Sazon: Tempero de Arroz",
+      "vendor": "Brazil",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "2.34",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 20,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891132000449.webp?v=1747173622"
+    },
+    {
+      "title": "Risque: Duna",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850087_9407a664-8027-483f-a2bf-31d64a3aac4c.png?v=1747263139"
+    },
+    {
+      "title": "Risque: Secante Express",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "4.90",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350039344_b2534f92-52d8-4e18-a57c-49da7b7776b3.png?v=1747260468"
+    },
+    {
+      "title": "Risque: Amarracao",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016131.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Astral",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840095.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: AzulLivreMente",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.59",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034103.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Querida Leitora",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "3.75",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350042382_5fe3912c-3796-4b52-b7b8-c128454d76f5.png?v=1747260465"
+    },
+    {
+      "title": "Risque: Bali",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996662.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Base Fortalecera",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "3.26",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182023139.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Base Niveladora",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "3.09",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991902.webp?v=1747263306"
+    },
+    {
+      "title": "Risque: Capuccino",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182996600.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Carmin",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182017053.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Cobertura Brilhante",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "4.84",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182991933.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Cristal",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182860116.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Desejo",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182031059.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Escarlata",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182020206.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Gabriela",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840200.webp?v=1747262766"
+    },
+    {
+      "title": "Risque: Gota Anjos",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.75",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182014748.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Incolor",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850018.webp?v=1747257405"
+    },
+    {
+      "title": "Risque: Leo mandou flores",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182016117.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Linda Leve e Nude",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891350034349.webp?v=1747257405"
+    },
+    {
+      "title": "Risque: Love",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032476.jpg?v=1747263234"
+    },
+    {
+      "title": "Risque: Nude",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182032988.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Paete",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "3.09",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036061.jpg?v=1747257406"
+    },
+    {
+      "title": "Risque: Paris",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182001762.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Rebu",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182840149.jpg?v=1747257406"
+    },
+    {
+      "title": "Risque: Renda",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182850025.jpg?v=1747257405"
+    },
+    {
+      "title": "Risque: Rendinha",
+      "vendor": "Brazil",
+      "tags": [
+        "Nail Polish"
+      ],
+      "status": "ACTIVE",
+      "price": "2.91",
+      "compare_at_price": null,
+      "available": true,
+      "inventory": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7891182036023.jpg?v=1747261870"
+    },
+    {
+      "title": "Nescau",
+      "vendor": "Brazil",
+      "tags": [
+        "Achocolatados em Pó"
+      ],
+      "status": "ACTIVE",
+      "price": "4.89",
+      "compare_at_price": "5.29",
+      "available": true,
+      "inventory": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/nescsau.webp?v=1773271674"
+    },
+    {
+      "title": "Bombril: Eco Lã de Aço",
+      "vendor": "Brazil",
+      "tags": [
+        "Limpeza Doméstica"
+      ],
+      "status": "ACTIVE",
+      "price": "1.89",
+      "compare_at_price": "2.09",
+      "available": true,
+      "inventory": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_9.png?v=1773449662"
+    },
+    {
+      "title": "Bis: Branco",
+      "vendor": "Brazil",
+      "tags": [
+        "Chocolate"
+      ],
+      "status": "ACTIVE",
+      "price": "4.29",
+      "compare_at_price": "4.89",
+      "available": true,
+      "inventory": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Designsemnome_10.png?v=1773446905"
+    },
+    {
+      "title": "Pozuelo: Galleta Mantequilla",
+      "vendor": "Costa Rica",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ACTIVE",
+      "price": "5.99",
+      "compare_at_price": "6.89",
+      "available": true,
+      "inventory": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/245220-800-800.webp?v=1773451593"
+    },
+    {
+      "title": "Pozuelo: Club Extra",
+      "vendor": "Costa Rica",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ACTIVE",
+      "price": "3.78",
+      "compare_at_price": "4.35",
+      "available": true,
+      "inventory": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/club-extra-original_086581211318_Mustakshif.webp?v=1773446663"
+    },
+    {
+      "title": "Alpina: Avena Original",
+      "vendor": "Colombia",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ACTIVE",
+      "price": "5.78",
+      "compare_at_price": "6.65",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00083322052636_1.jpg?v=1773458154"
+    },
+    {
+      "title": "Nestle: Milo Chocolate Nutritional",
+      "vendor": "Colombia",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ACTIVE",
+      "price": "2.09",
+      "compare_at_price": "2.40",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/milo-569b702bc816b297c276398712100ac0549ddc27_jpg.webp?v=1773457828"
+    },
+    {
+      "title": "Pony Malta",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "7.56",
+      "compare_at_price": "8.69",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/4-bebida-pony-malta-bebidas-productos-latinos-en-espana-y-europa.webp?v=1773456999"
+    },
+    {
+      "title": "Hit: Tropical",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/large_470854f5-3060-4539-8f7e-27cc0e73d2a8.jpg?v=1773456568"
+    },
+    {
+      "title": "Vive 100: Original",
+      "vendor": "Colombia",
+      "tags": [
+        "Energy Drink"
+      ],
+      "status": "ACTIVE",
+      "price": "1.99",
+      "compare_at_price": "2.29",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/7702354929503_jpg.webp?v=1773456010"
+    },
+    {
+      "title": "Speed Max: Energy drink",
+      "vendor": "Colombia",
+      "tags": [
+        "Energy Drink"
+      ],
+      "status": "ACTIVE",
+      "price": "3.45",
+      "compare_at_price": "3.97",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/speed-max-lata-x-269-ml.jpg?v=1773457568"
+    },
+    {
+      "title": "Colombiana: Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "1.92",
+      "compare_at_price": "2.21",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/00051202008752_c1n1.webp?v=1773457336"
+    },
+    {
+      "title": "Postobon: Pina",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "2.45",
+      "compare_at_price": "2.82",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/postobon2_1200x1200_4dede543-7795-4c51-8b6c-eebeb6de94f3.webp?v=1773455137"
+    },
+    {
+      "title": "Hit: Mora",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.73",
+      "compare_at_price": "6.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Blackberry",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.89",
+      "compare_at_price": "3.32",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Frutas tropicales",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.73",
+      "compare_at_price": "6.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "HIt: Lulo",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.73",
+      "compare_at_price": "6.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Mango",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.73",
+      "compare_at_price": "6.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Naranja Pina",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.73",
+      "compare_at_price": "6.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Colombiana:Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "3.93",
+      "compare_at_price": "4.52",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52258351.webp?v=1773772029"
+    },
+    {
+      "title": "Postobon: Apple Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "4.09",
+      "compare_at_price": "4.70",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Kola Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.95",
+      "compare_at_price": "6.84",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pony Malta",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "11.18",
+      "compare_at_price": "12.86",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Blackberry Juice",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Lulo",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ACTIVE",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/hit-lulo-juice-drink-net-wt-8-oz-6.webp?v=1773539811"
+    },
+    {
+      "title": "Hit: Mango Juice",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Orange Pineapple",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Tropical",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Hit: Mango",
+      "vendor": "Colombia",
+      "tags": [
+        "Juice"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.69",
+      "compare_at_price": "1.94",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Pina glass",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.24",
+      "compare_at_price": "2.58",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon de Naranja Glass",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.24",
+      "compare_at_price": "2.58",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Bretana",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.90",
+      "compare_at_price": "3.34",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Speed Max: Energy drink",
+      "vendor": "Colombia",
+      "tags": [
+        "Energy Drink"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.45",
+      "compare_at_price": "3.97",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Manzana Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.95",
+      "compare_at_price": "2.24",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Colombiana : Kola Flavored Glass",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.25",
+      "compare_at_price": "2.59",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pony Malta Drink",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.10",
+      "compare_at_price": "2.42",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon Kola Flavored",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.45",
+      "compare_at_price": "2.82",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Glass Apple Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.45",
+      "compare_at_price": "2.82",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Glass Grape Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.03",
+      "compare_at_price": "2.33",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Naranja",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.95",
+      "compare_at_price": "2.24",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Colombiana: Kola Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ACTIVE",
+      "price": "1.84",
+      "compare_at_price": "2.12",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Kola_Soda_Colombiana_-_Botella_X_1_Unidad-Las_Americas_Supermarket.webp?v=1773540145"
+    },
+    {
+      "title": "Postobon: Apple Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.90",
+      "compare_at_price": "2.19",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Postobon: Grape Soda",
+      "vendor": "Colombia",
+      "tags": [
+        "Soda"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.90",
+      "compare_at_price": "2.19",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Shaka laka: Chocolate",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.24",
+      "compare_at_price": "1.24",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Bucatini",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "B&B: Ketchup Bolsita",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ACTIVE",
+      "price": "1.68",
+      "compare_at_price": "1.68",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259429.png?v=1773771720"
+    },
+    {
+      "title": "B&B: Mayonesa Bolsita",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ACTIVE",
+      "price": "2.25",
+      "compare_at_price": "2.25",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259430.png?v=1773771892"
+    },
+    {
+      "title": "YaEsta: Rostizador Empanizador",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.83",
+      "compare_at_price": "0.83",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Ya Esta: Empanizador Rostizador",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "1.00",
+      "compare_at_price": "1.00",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52263092.jpg?v=1773770889"
+    },
+    {
+      "title": "Pozuelo: Chiky Vanilla Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.50",
+      "compare_at_price": "2.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pozuelo: Chiky Strawberry Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.38",
+      "compare_at_price": "3.38",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pozuelo: Chiky Chocolate Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.38",
+      "compare_at_price": "3.38",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pippa: Pan Dona Zoila",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bread"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.50",
+      "compare_at_price": "5.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Picamas: Salsa Brava",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.81",
+      "compare_at_price": "1.81",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Tornillo",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Shells",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Shangai: Chow Mein",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.86",
+      "compare_at_price": "3.86",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Shaka Laka: Vanilla",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.24",
+      "compare_at_price": "1.24",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Tortrix: Frituras de Maiz con Chicharron sabor BBQ",
+      "vendor": "Guatemala",
+      "tags": [
+        "Chips"
+      ],
+      "status": "ARCHIVED",
+      "price": "4.27",
+      "compare_at_price": "4.27",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Malher: Tomato Beef Bouillon",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.79",
+      "compare_at_price": "1.79",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Malher: Seasoning Salt",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ACTIVE",
+      "price": "3.33",
+      "compare_at_price": "3.33",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/61HeDgDPAYL.jpg_BO30_255_255_255_UF750_750_SR1910_1000_0_C_QL100.jpg?v=1773552511"
+    },
+    {
+      "title": "Malher: Chicken Flavor Bouillon",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.17",
+      "compare_at_price": "3.17",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Maggi: Cola de Res",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.33",
+      "compare_at_price": "1.33",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Incaparina: Hot Cereal Mix",
+      "vendor": "Guatemala",
+      "tags": [
+        "Cereals"
+      ],
+      "status": "ACTIVE",
+      "price": "2.36",
+      "compare_at_price": "2.36",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/Incaparina-Corn-Soy-Cereal-15-9-oz-Cereal-de-Maiz-y-Soya-Pack-of-12_f388fce6-e4f9-4d34-a10b-60f64175a36a_1.37d7d1cb639cd1ce168a2fd9e7029c51.avif?v=1773552673"
+    },
+    {
+      "title": "Ina: Chao Mein",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.50",
+      "compare_at_price": "1.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "B &B: Horchata",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ACTIVE",
+      "price": "4.16",
+      "compare_at_price": "4.16",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52259427.png?v=1773554203"
+    },
+    {
+      "title": "Comali: Alborotos",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sweet Snacks"
+      ],
+      "status": "ARCHIVED",
+      "price": "4.25",
+      "compare_at_price": "4.25",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Shaka laka: Chocolate",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.24",
+      "compare_at_price": "1.24",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Bucatini",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "YaEsta: Rostizador Empanizador",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.83",
+      "compare_at_price": "0.83",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Ya Esta: Empanizador Rostizador",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.00",
+      "compare_at_price": "1.00",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pozuelo: Chiky Vanilla Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.50",
+      "compare_at_price": "2.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pozuelo: Chiky Strawberry Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.38",
+      "compare_at_price": "3.38",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pozuelo: Chiky Chocolate Enrobed Cookies",
+      "vendor": "Guatemala",
+      "tags": [
+        "Biscoitos"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.38",
+      "compare_at_price": "3.38",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pippa: Pan Dona Zoila",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bread"
+      ],
+      "status": "ARCHIVED",
+      "price": "5.50",
+      "compare_at_price": "5.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Picamas: Salsa Brava",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sauce"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.81",
+      "compare_at_price": "1.81",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Tornillo",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Pasta Ina: Shells",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262807.png?v=1773873984"
+    },
+    {
+      "title": "Pasta Ina: Elbows",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ACTIVE",
+      "price": "0.80",
+      "compare_at_price": "0.80",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262806.webp?v=1773772278"
+    },
+    {
+      "title": "Shangai: Chow Mein",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.86",
+      "compare_at_price": "3.86",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Shaka Laka: Vanilla",
+      "vendor": "Guatemala",
+      "tags": [
+        "Bebidas Lácteas"
+      ],
+      "status": "ACTIVE",
+      "price": "1.24",
+      "compare_at_price": "1.24",
+      "available": true,
+      "inventory": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0749/7026/7874/files/52262263.webp?v=1773770577"
+    },
+    {
+      "title": "Tortrix: Frituras de Maiz con Chicharron sabor BBQ",
+      "vendor": "Guatemala",
+      "tags": [
+        "Chips"
+      ],
+      "status": "ARCHIVED",
+      "price": "4.27",
+      "compare_at_price": "4.27",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Malher: Tomato Beef Bouillon",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.79",
+      "compare_at_price": "1.79",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Malher: Seasoning Salt",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.33",
+      "compare_at_price": "3.33",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Malher: Chicken Flavor Bouillon",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "3.17",
+      "compare_at_price": "3.17",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Maggi: Cola de Res",
+      "vendor": "Guatemala",
+      "tags": [
+        "Seasoning"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.33",
+      "compare_at_price": "1.33",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Incaparina: Hot Cereal Mix",
+      "vendor": "Guatemala",
+      "tags": [
+        "Cereals"
+      ],
+      "status": "ARCHIVED",
+      "price": "2.36",
+      "compare_at_price": "2.36",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Ina: Chao Mein",
+      "vendor": "Guatemala",
+      "tags": [
+        "Pasta"
+      ],
+      "status": "ARCHIVED",
+      "price": "1.50",
+      "compare_at_price": "1.50",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    },
+    {
+      "title": "Comali: Alborotos",
+      "vendor": "Guatemala",
+      "tags": [
+        "Sweet Snacks"
+      ],
+      "status": "ARCHIVED",
+      "price": "4.25",
+      "compare_at_price": "4.25",
+      "available": true,
+      "inventory": 1,
+      "image": null
+    }
+  ]
+}
